@@ -1,0 +1,918 @@
+"idbarragem","nome","categirarisco","danopotencialassociado","niveldeemergencia","tipobarragem","situacaooperacional","datainiciooperacao","alturamaxima","volumeatual"
+8662,"0-1","Alta","Alta","Emergência Nivel 1",NULL,"Inativa","01/01/1996",NULL,NULL
+8435,"1 Mina","Baixa","Baixa","Sem emergência","Enrocamento","Ativa","01/01/2017","6,99","13.414,72"
+8619,"1 Usina","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","01/01/2017","7,59","41.574,00"
+8779,"103 (Cruz)","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","05/02/1988","10,3","1.290.000,00"
+9144,"11 - DES","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Em Descaracterização","02/06/2008","5","1.140.000,00"
+8778,"111 (Índio)","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","03/03/1988","5","1.065.000,00"
+9288,"12 - AN","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","06/10/2014","10","492.348,00"
+9145,"12 - DES","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","02/11/2015","11","577.840,39"
+9146,"13 - AN","Média","Baixa","Sem emergência","Terra / Enrocamento","Em Descaracterização","04/06/2008","8","663.184,00"
+8684,"158 (A-1)","Média","Alta","Sem emergência","Terra / Enrocamento","Ativa","01/02/1993","30","47.000.000,00"
+8685,"161 (A-2)","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/12/1999","10,9","1.450.000,00"
+8771,"189","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","10/03/1994","5","209.969,00"
+8381,"2","Média","Baixa","Sem emergência","Enrocamento","Inativa","01/01/2004","10","9.445,19"
+8668,"22","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","26/03/1987","6","56.519,00"
+8620,"3 Mina","Baixa","Baixa","Sem emergência","Enrocamento","Ativa","01/01/2017","14,61","84.105,00"
+8673,"30/jan.","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","07/08/1985","8","1.320,09"
+8675,"42","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","22/09/1994","4,9","130.979,00"
+8774,"444 (A-3)","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/2005","14,7","1.122.245,00"
+8421,"5 (MAC)","Média","Alta","Sem emergência","Terra Homogênea","Inativa","01/01/1973","83,05","13.983.755,99"
+8525,"5 (Mutuca)","Média","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/1989","55","9.771.474,42"
+9629,"6","Média","Alta","Sem emergência","Terra / Enrocamento","Em Descaracterização","01/01/1977","21,6","73.131,15"
+8676,"68-1","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","02/09/1994","6","3.752,00"
+8677,"69","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","11/07/1986","5","84.941,00"
+8678,"75-1","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","04/11/1994","4","75.522,00"
+9630,"7a","Alta","Alta","Emergência Nivel 1","Terra / Enrocamento","Em Descaracterização","01/01/1977","37,67","187.482,39"
+8422,"7B","Média","Alta","Sem emergência","Terra Homogênea","Inativa","01/01/1987","31,36","204.622,32"
+8995,"803.285/2014","Média","Baixa","Sem emergência","-","Inativa","-","1","500"
+8679,"81-1","Alta","Alta","Emergência Nivel 1","Terra Homogênea","Inativa","05/02/1986","4,7","3.311.822,00"
+8383,"A - PDE Nordeste","Média","Baixa","Sem emergência","Enrocamento","Inativa","01/01/2006","7,25","300"
+9353,"Água Fria","Alta","Alta","Emergência Nivel 1",NULL,"Em Descaracterização","01/01/1979",NULL,NULL
+9661,"Agua Limpa","Baixa","Média","Nível de Alerta","Terra Homogênea","Em Descaracterização","08/05/1973","10","177.067,00"
+8458,"Alain II","Média","Média","Sem emergência","Terra / Enrocamento","Em Descaracterização","11/02/2016","19","844.440,00"
+8311,"Alcindo Vieira","Baixa","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","09/10/1973","24","612.595,95"
+9037,"Alemães","Baixa","Alta","Sem emergência",NULL,"Ativa","01/03/2010",NULL,NULL
+8276,"Alto Jacutinga","Média","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/1984","12,45","114.910,00"
+9639,"Alvo Crente","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+9632,"Área IX","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","01/01/2012",NULL,NULL
+9229,"Area M","Média","Baixa","Sem emergência","Terra / Enrocamento","Inativa","02/01/2008","6","2.839.200,00"
+9676,"ARENAL","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","12/05/2021","5","125.764,57"
+8193,"Azul","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","30/09/1998",NULL,NULL
+9101,"B","Baixa","Alta","Sem emergência","Terra / Enrocamento","Inativa","30/11/2001","45","841.897,18"
+9122,"B1","Média","Média","Sem emergência",NULL,"Ativa","16/02/2015",NULL,NULL
+8934,"B1","Baixa","Baixa","Sem emergência",NULL,"Em Descaracterização","01/06/1979",NULL,NULL
+9125,"B1","Baixa","Alta","Sem emergência",NULL,"Ativa","30/04/2005",NULL,NULL
+8935,"B2","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","21/01/1970",NULL,NULL
+8366,"B3","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/2000","18","296.862,00"
+8936,"B4","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","11/11/1996",NULL,NULL
+8699,"B4","Baixa","Alta","Sem emergência","Rejeito","Em Descaracterização","26/11/2013","95",NULL
+8686,"B5","Baixa","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","01/01/2000","26,4","223.840,00"
+9127,"B5","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","30/04/2005","37","12.237.239,00"
+8982,"B5","Baixa","Alta","Nível de Alerta",NULL,"Ativa","05/11/2005",NULL,NULL
+9128,"B6","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","30/04/2005","13","545.365,00"
+8216,"B6","Baixa","Média","Sem emergência","Terra / Enrocamento","Ativa","03/02/1999","18,86","173.849,00"
+8217,"B7","Baixa","Média","Sem emergência","Terra Homogênea","Em Descaracterização","01/01/2002","24","69.808,00"
+9091,"Bacia 01","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/08/2008","9","1.000,00"
+9272,"Bacia 02-03 Alto da Serra Mn","Média","Baixa","Sem emergência",NULL,"Ativa","01/01/1987",NULL,NULL
+9164,"Bacia 05 Alto da Serra","Média","Baixa","Sem emergência",NULL,"Ativa","01/01/1987",NULL,NULL
+9092,"Bacia 07","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/08/2008","7","500"
+9093,"Bacia 08","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/05/2005","7","5.000,00"
+9094,"Bacia 09","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/08/2008","7","2.200,00"
+9062,"Bacia 1 A","Média","Alta","Sem emergência","Terra / Enrocamento","Em Descaracterização","03/06/1996","10,8","858.000,00"
+9063,"Bacia 1 B","Média","Alta","Sem emergência","Terra / Enrocamento","Em Descaracterização","03/06/1996","10,8","260.000,00"
+9095,"Bacia 15","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/05/2013","5",NULL
+9096,"Bacia 16","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","01/01/2013","12",NULL
+9097,"Bacia 17","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","02/05/2017","8",NULL
+9287,"Bacia 17","Baixa","Baixa","Sem emergência",NULL,"Ativa","20/07/2016",NULL,NULL
+9064,"Bacia 2","Média","Alta","Sem emergência","Terra / Enrocamento","Em Descaracterização","12/02/2001","15","1.374.000,00"
+9065,"Bacia 3","Baixa","Alta","Sem emergência","Terra / Enrocamento","Ativa","03/05/2005","9","486.670,87"
+9067,"Bacia 5 A","Baixa","Alta","Sem emergência","Terra Homogênea","Em Descaracterização","06/08/2008","13,5","510.000,00"
+9068,"Bacia 5 B","Baixa","Alta","Sem emergência","Terra Homogênea","Em Descaracterização","06/08/2008","10","270.000,00"
+9069,"Bacia 5 C","Baixa","Alta","Sem emergência","Terra Homogênea","Em Descaracterização","20/12/2012","8,5","767.000,00"
+9070,"Bacia 6 A","Baixa","Alta","Sem emergência","Terra Homogênea","Inativa","17/06/2015","11","485.034,48"
+9741,"Bacia 6B","Baixa","Alta","Sem emergência","Terra / Enrocamento","Ativa","04/11/2022","15,88","729.557,25"
+8267,"Bacia A","Baixa","Alta","Sem emergência",NULL,"Ativa","01/01/2011",NULL,NULL
+8268,"Bacia B","Baixa","Alta","Sem emergência",NULL,"Ativa","01/01/2011",NULL,NULL
+9181,"Bacia B-9","Baixa","Média","Sem emergência",NULL,"Ativa","15/01/2006",NULL,NULL
+9074,"Bacia B 1","Média","Alta","Sem emergência","Terra / Enrocamento","Em Descaracterização","31/03/1995","13","270.000,00"
+8860,"Bacia de Acumulação 01","Alta","Alta","Emergência Nivel 1",NULL,"Em Descaracterização","01/03/2011",NULL,NULL
+9564,"Bacia de Acumulação A","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/2018","3,84","3.640,40"
+9565,"Bacia de Acumulação B","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/2018","3,07","4.870,43"
+9582,"Bacia de Acumulação de Efluente Tratado","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","-","4","3.000,00"
+9043,"Bacia de Conteção de Finos da PDE-A Norte","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","01/12/2015","5","3.480,00"
+9044,"Bacia de Conteção de Finos da PDE-A Sul","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","01/08/2015","6","1.000,00"
+9075,"Bacia de Controle Ambiental","Baixa","Alta","Sem emergência","Terra Homogênea","Em Descaracterização","10/04/1995","8","175.000,00"
+9363,"BACIA DE DECANTAÇÃO - PLANTA I","Baixa","Baixa","Nível de Alerta","Terra Homogênea","Em Descaracterização","01/04/1998","20","0"
+10279,"BACIA DE DECANTAÇÃO  DIQUE DE ENROCAMENTO PDE6 - FASE 1","Baixa","Baixa","Sem emergência","Enrocamento","Ativa","30/10/2022","8,75","0"
+8292,"Bacia de Decantação 1","Média","Baixa","Sem emergência","Rejeito","Em Descaracterização","01/05/2007","2","3.660,00"
+8293,"Bacia de Decantação 2","Média","Baixa","Sem emergência","Rejeito","Em Descaracterização","01/05/2007","2,25","5.700,00"
+8294,"Bacia de Decantação 3","Média","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","01/05/2007","2","1.570,00"
+8822,"BACIA DE DECANTAÇÃO DA USINA RIO FIORITA","Baixa","Média","Sem emergência",NULL,"Ativa","16/09/2008",NULL,NULL
+9249,"Bacia de Decantação Final No Bota Fora","Média","Média","Sem emergência",NULL,"Ativa","01/07/2014",NULL,NULL
+9560,"Bacia de Decantação S1","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","-","5","210.000,00"
+9121,"Bacia de Finos da Mina do Cerro","Média","Média","Sem emergência","Rejeito","Em Descaracterização","01/11/2004","10","534.000,00"
+9120,"Bacia de Finos da Mina do Recreio","Baixa","Alta","Sem emergência","Rejeito","Em Descaracterização","01/12/1996","20","4.420.000,00"
+10021,"BACIA DE RECIRCULAÇÃO - RI","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/01/2007",NULL,NULL
+10022,"BACIA DE RECIRCULAÇÃO - RII","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/01/2007",NULL,NULL
+9007,"BACIA DE REJEITO MINERGOLD","Média","Baixa","Sem emergência",NULL,"Ativa","01/06/2013",NULL,NULL
+10256,"Bacia de Rejeito Não Magnético 06","Baixa","Média","Sem emergência","Enrocamento","Ativa","16/04/2024","27,5","1.056.349,00"
+8629,"Bacia de Rejeitos","Alta","Alta","Emergência Nivel 1",NULL,"Inativa","26/01/2016",NULL,NULL
+8990,"BACIA DE REJEITOS 16","Baixa","Baixa","Sem emergência",NULL,"Ativa","20/02/2017",NULL,NULL
+8949,"BACIA DE REJEITOS BOM JARDIM","Média","Média","Sem emergência",NULL,"Ativa","01/01/2008",NULL,NULL
+8879,"BACIA DE REJEITOS SÃO BENTO","Alta","Alta","Emergência Nivel 1",NULL,"Inativa","01/10/2021",NULL,NULL
+8346,"BACIA DE SEDIMENTO DA USINA DE TRATAMENTO","Média","Baixa","Sem emergência",NULL,"Ativa","10/06/2011",NULL,NULL
+9073,"Bacia de Segurança","Baixa","Alta","Nível de Alerta","Terra Homogênea","Ativa","17/06/2015","11","16.000,00"
+9780,"Bacia do Castanheira","Alta","Baixa","Emergência Nivel 2","Terra Homogênea","Inativa","01/06/2007","11,6","496.431,00"
+9845,"Bacia Grota da Onça","Média","Alta","Sem emergência",NULL,"Ativa","03/01/2022",NULL,NULL
+9040,"Bacia Lavador de Rodas","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","11/06/2013","3,6","612,23"
+10172,"Bacia Nestor Figueiredo - BNF","Alta","Baixa","Emergência Nivel 1","Terra Homogênea","Ativa","12/10/1989","10","15.000,00"
+10019,"BACIA USINA DE BENEFICIAMENTO - IA","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/01/1994",NULL,NULL
+10020,"BACIA USINA DE BENEFICIAMENTO - IB","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/01/1994",NULL,NULL
+8988,"Bacuri","Média","Baixa","Sem emergência",NULL,"Ativa","01/01/2020",NULL,NULL
+9351,"Baia 4","Média","Baixa","Sem emergência",NULL,"Ativa","01/06/2006",NULL,NULL
+9042,"Baias da UTM II","Baixa","Média","Sem emergência",NULL,"Ativa","01/08/2013",NULL,NULL
+10350,"Baixinhos","Alta","Baixa","Emergência Nivel 1","-","Inativa","03/09/1984","24,24","3.046.923,00"
+9344,"BARAÚNA - PBC1","Baixa","Baixa","Sem emergência",NULL,"Ativa","30/04/2015",NULL,NULL
+9345,"BARAÚNA - PBC2","Baixa","Baixa","Sem emergência",NULL,"Ativa","15/05/2015",NULL,NULL
+9346,"BARAÚNA - PBC3","Baixa","Baixa","Sem emergência",NULL,"Ativa","26/05/2015",NULL,NULL
+10039,"BARBA","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","29/06/2023","6","56.000,00"
+8279,"Barnabé","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/1993","25,36","262.210,00"
+8281,"Barnabé 1","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/03/2017","33","449.310,00"
+9011,"BARRAGEM","Baixa","Baixa","Sem emergência",NULL,"Ativa","17/07/2012",NULL,NULL
+9876,"Barragem - Valdenir","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","15/05/2017","14,68","7.043,76"
+9006,"BARRAGEM  BLOCO NORTE","Baixa","Baixa","Sem emergência",NULL,"Inativa","01/02/2015",NULL,NULL
+9775,"Barragem  LVR","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","19/06/2024","11","105.669,68"
+8333,"BARRAGEM  USINA BENEFICIAMENTO L7 - IIB","Média","Baixa","Sem emergência",NULL,"Ativa","01/01/1994",NULL,NULL
+9262,"Barragem 01","Média","Alta","Sem emergência","Terra Homogênea","Ativa","15/10/2003","37","6.958.567,26"
+8753,"Barragem 01","Média","Alta","Sem emergência","Rejeito","Em Descaracterização","01/06/1982","61",NULL
+9730,"Barragem 01","Média","Média","Sem emergência","Terra / Enrocamento","Inativa","20/06/2019","25","185.241,55"
+8820,"Barragem 01","Alta","Média","Emergência Nivel 1","Terra Homogênea","Em Descaracterização","01/07/2015","14",NULL
+8827,"BARRAGEM 01","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/01/2013","3","31.250,00"
+8218,"Barragem 02","Baixa","Alta","Sem emergência","Terra / Enrocamento","Em Descaracterização","14/02/1975","15","413.924,77"
+9731,"Barragem 02","Média","Média","Sem emergência","Terra / Enrocamento","Ativa","10/06/2019","22",NULL
+8821,"Barragem 02","Alta","Média","Emergência Nivel 1","-","Inativa","01/09/2005","19","1.450.019,30"
+8828,"BARRAGEM 02","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/01/2013","3,5","31.250,00"
+8757,"BARRAGEM 02","Baixa","Alta","Sem emergência",NULL,"Ativa","01/06/2008",NULL,NULL
+8940,"Barragem 02 - Canindé","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","01/04/2006",NULL,NULL
+8219,"Barragem 03","Baixa","Alta","Sem emergência","Terra Homogênea","Em Descaracterização","14/02/1975","10","736.337,31"
+10073,"BARRAGEM 03","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","05/03/2024","7",NULL
+8941,"Barragem 03 - Zé da Grota","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","01/04/2006",NULL,NULL
+8626,"Barragem 1","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","01/12/1964","3,5","108.377,16"
+9832,"Barragem 1","Média","Baixa","Sem emergência","Rejeito","Ativa","05/06/2006","5",NULL
+8344,"Barragem 1","Baixa","Alta","Sem emergência",NULL,"Ativa","31/12/1973",NULL,NULL
+9266,"Barragem 1","Baixa","Alta","Sem emergência",NULL,"Ativa","01/01/1989",NULL,NULL
+8400,"Barragem 1 - Decantação","Baixa","Baixa","Sem emergência",NULL,"Ativa","11/05/1987",NULL,NULL
+9291,"Barragem 1 - Dique de Contenção","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","11/02/1982","8","12.000,00"
+8414,"Barragem 101","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","01/01/2010","3","9.542,20"
+9267,"Barragem 2","Baixa","Alta","Sem emergência",NULL,"Ativa","30/06/2005",NULL,NULL
+8345,"Barragem 2","Baixa","Alta","Sem emergência",NULL,"Ativa","31/12/2006",NULL,NULL
+9833,"Barragem 2","Média","Baixa","Sem emergência","Rejeito","Ativa","05/06/2016","6",NULL
+9292,"Barragem 2 - Captação de Água","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","11/02/1982","2","14.000,00"
+8947,"Barragem 2 - Decantação","Baixa","Baixa","Sem emergência",NULL,"Ativa","11/05/1987",NULL,NULL
+9834,"Barragem 3","Média","Baixa","Sem emergência","Rejeito","Ativa","08/06/2016","7",NULL
+9268,"Barragem 3","Baixa","Alta","Sem emergência",NULL,"Ativa","18/12/2009",NULL,NULL
+8833,"BARRAGEM 339","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","01/01/2014","4,5","7.500,00"
+8834,"BARRAGEM 341","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/01/2014","4,5","7.500,00"
+8976,"Barragem 3A - Sedimentação","Média","Baixa","Sem emergência",NULL,"Ativa","11/05/1987",NULL,NULL
+8977,"Barragem 3B - Sedimentação","Média","Baixa","Sem emergência","Rejeito","Ativa","11/05/1987","3",NULL
+9835,"Barragem 4","Média","Baixa","Sem emergência","Rejeito","Ativa","10/06/2016","5",NULL
+8978,"Barragem 4 - Acumulação","Média","Baixa","Sem emergência",NULL,"Ativa","11/05/1987",NULL,NULL
+8980,"Barragem 5 - Captação","Média","Baixa","Sem emergência","Rejeito","Ativa","11/05/1987","4",NULL
+8981,"Barragem 6 - Dique Filtrante","Média","Baixa","Sem emergência","Rejeito","Ativa","11/05/1987","4",NULL
+8863,"BARRAGEM 7","Baixa","Alta","Sem emergência",NULL,"Ativa","01/06/2017",NULL,NULL
+8983,"barragem 7 - Dique Filtrante","Média","Baixa","Sem emergência","Rejeito","Ativa","11/05/1987","7",NULL
+8984,"Barragem 8 - Dique Filtrante","Média","Baixa","Sem emergência","Rejeito","Ativa","11/05/1987","6",NULL
+8985,"Barragem 9 - Dique Filtrante","Média","Baixa","Sem emergência","Rejeito","Ativa","11/05/1987","6",NULL
+8450,"Barragem A","Baixa","Alta","Sem emergência",NULL,"Inativa","01/01/1978",NULL,NULL
+8502,"Barragem A","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","31/12/1986","8","4.902,08"
+8506,"Barragem A0","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","31/12/1976","23,5","7.198.285,27"
+8557,"Barragem A1","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","31/10/2002","11","513.940,00"
+9493,"Barragem AFGM GP2","Média","Média","Sem emergência",NULL,"Ativa","07/10/2015",NULL,NULL
+9626,"BARRAGEM ÁGUA BRANCA","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+8559,"Barragem Água Fria","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","01/07/1978","8","555.635,00"
+8440,"Barragem Antas Norte","Baixa","Alta","Sem emergência",NULL,"Ativa","02/03/2016",NULL,NULL
+8875,"Barragem Aroeira","Baixa","Alta","Sem emergência",NULL,"Ativa","01/01/2001",NULL,NULL
+8462,"Barragem B","Baixa","Alta","Sem emergência",NULL,"Inativa","01/01/1976",NULL,NULL
+9183,"Barragem B-6","Baixa","Média","Sem emergência",NULL,"Ativa","15/01/2006",NULL,NULL
+9772,"Barragem B1","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+9430,"Barragem B1","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","31/12/1991","4","10.200,00"
+8505,"Barragem B1","Baixa","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","02/06/1994","47","412.000,00"
+9810,"Barragem B1","Alta","Média","Emergência Nivel 1","Terra Homogênea","Ativa","01/10/2021","9,5","257.346,00"
+9348,"BARRAGEM B1","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","24/01/2019","8",NULL
+8262,"BARRAGEM B1","Média","Baixa","Sem emergência","Enrocamento","Ativa","01/01/2002","8","18.113,00"
+9319,"Barragem B1-Auxiliar - Mina Tico-Tico","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","01/03/2007",NULL,NULL
+9317,"Barragem B1 - Mina Ipê","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","01/01/1991",NULL,NULL
+8511,"Barragem B1/B4","Baixa","Alta","Sem emergência",NULL,"Inativa","31/12/1986",NULL,NULL
+8818,"Barragem B12","Baixa","Alta","Sem emergência","Terra / Enrocamento","Ativa","31/12/1987","19","2.457.773,41"
+5863,"Barragem B1A","Alta","Alta","Emergência Nivel 2",NULL,"Inativa","01/12/1996",NULL,NULL
+8507,"Barragem B2","Baixa","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","02/06/1994","25,5","424.000,00"
+9811,"Barragem B2","Alta","Média","Emergência Nivel 1","Terra / Enrocamento","Ativa","01/10/2021","9,8","54.368,12"
+8681,"Barragem B2","Baixa","Baixa","Sem emergência","Enrocamento","Ativa","15/09/2014","10","61.000,00"
+8500,"Barragem B2","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/01/1979",NULL,NULL
+8694,"BARRAGEM B2","Baixa","Alta","Sem emergência","Rejeito","Em Descaracterização","31/12/1989","40",NULL
+9320,"Barragem B2 - Mina Tico-Tico","Média","Alta","Sem emergência",NULL,"Em Descaracterização","01/01/1991",NULL,NULL
+8693,"BARRAGEM B2 AUXILIAR","Baixa","Alta","Sem emergência","Rejeito","Em Descaracterização","01/12/1994","-1,5",NULL
+9431,"Barragem B3","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","31/12/1992","7","14.200,00"
+8510,"Barragem B3","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","01/06/1995","10","20.000,00"
+8682,"Barragem B3","Baixa","Baixa","Sem emergência","Enrocamento","Ativa","15/09/2014","14","108.879,00"
+8683,"Barragem B4","Baixa","Média","Sem emergência",NULL,"Em Descaracterização","07/10/2009",NULL,NULL
+8574,"BARRAGEM B4","Baixa","Alta","Sem emergência","Terra Homogênea","Em Descaracterização","01/01/1987","17","14.698.285,00"
+8496,"Barragem B5","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","31/12/1986",NULL,NULL
+9814,"Barragem B5","Alta","Média","Emergência Nivel 1",NULL,"Ativa","01/10/2021",NULL,NULL
+9369,"Barragem B6","Baixa","Alta","Sem emergência",NULL,"Ativa","02/09/2019",NULL,NULL
+8428,"Barragem BA-3","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","31/12/1980","17","760.124,50"
+9916,"Barragem Bacia de Decantação 02","Média","Baixa","Sem emergência",NULL,"Inativa","15/12/2019",NULL,NULL
+9919,"Barragem Bacia de Decantação 03","Média","Baixa","Sem emergência",NULL,"Em Descaracterização","21/06/2020",NULL,NULL
+8432,"Barragem BD-2","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","31/12/1979","21","1.841.452,70"
+8439,"Barragem BD-5","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","31/12/1987","33","2.427.181,00"
+8441,"Barragem BL-1","Baixa","Alta","Sem emergência",NULL,"Ativa","31/12/1978",NULL,NULL
+9008,"BARRAGEM BLOCO  SUL","Média","Baixa","Sem emergência",NULL,"Ativa","01/02/2016",NULL,NULL
+8195,"Barragem BM","Baixa","Alta","Sem emergência","Terra / Enrocamento","Em Descaracterização","18/07/1980","28","1.517.934,88"
+8899,"BARRAGEM BOM JARDIM","Baixa","Média","Sem emergência",NULL,"Em Descaracterização","30/11/2008",NULL,NULL
+8443,"Barragem BR","Baixa","Alta","Sem emergência",NULL,"Ativa","31/12/1980",NULL,NULL
+8196,"Barragem BR","Baixa","Alta","Sem emergência",NULL,"Ativa","01/01/1981",NULL,NULL
+8446,"Barragem BRI","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/1978","31","7.017.862,90"
+8454,"Barragem C","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/1978","10","417.600,00"
+9611,"Barragem Candonga","Média","Baixa","Sem emergência",NULL,"Ativa","10/04/2013",NULL,NULL
+8498,"Barragem Captação de Água","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","04/01/2010","4,46","14.000,00"
+8564,"BARRAGEM CASA DE PEDRA","Baixa","Alta","Sem emergência","-","Ativa","05/09/2009","84","65.374.575,00"
+10228,"Barragem Cava 14","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","23/07/2021","14","933.631,84"
+9439,"Barragem CBC","Alta","Média","Emergência Nivel 1",NULL,"Em Descaracterização","01/02/1970",NULL,NULL
+10515,"Barragem Célula 02","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+9752,"BARRAGEM COOP 01","Baixa","Baixa","Sem emergência",NULL,"Ativa","09/08/2021",NULL,NULL
+10118,"BARRAGEM D4","Alta","Média","Emergência Nivel 1","Terra / Enrocamento","Ativa","01/01/1985","5,9","351.670,50"
+8631,"Barragem da Cava","Média","Média","Sem emergência","Terra Homogênea","Ativa","01/12/2001","25","2.357.000,00"
+8843,"Barragem da Grota","Baixa","Baixa","Sem emergência",NULL,"Em Descaracterização","06/09/2015",NULL,NULL
+8627,"Barragem da Mina II","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","01/01/1982","25","22.000,00"
+9124,"BARRAGEM DA USINA","Média","Baixa","Sem emergência",NULL,"Ativa","01/03/2023",NULL,NULL
+8926,"BARRAGEM DE CLARIFICAÇÃO","Baixa","Alta","Sem emergência","Rejeito","Em Descaracterização","12/01/2009","25",NULL
+5405,"Barragem de Clarificação de Água","Média","Baixa","Sem emergência",NULL,"Ativa","-",NULL,NULL
+8280,"BARRAGEM DE CONTENÇÃO DE ÁGUAS PLUVIAIS-DIQUE D-03","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","01/06/1997","14","10.450,12"
+8741,"BARRAGEM DE CONTENÇÃO DE REJEITOS","Alta","Alta","Emergência Nivel 1",NULL,"Inativa","31/10/2013",NULL,NULL
+9134,"Barragem de Contenção de Sedimentos do Josino","Baixa","Média","Sem emergência","Terra / Enrocamento","Ativa","26/05/2000","9,4","42.500,00"
+8256,"Barragem de Contenção de Sólidos Carreados","Média","Baixa","Sem emergência","Rejeito","Ativa","18/05/1978","8",NULL
+9280,"Barragem de Decantação de Água e Polpa - EBII - Mineroduto","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/1997","17","101.536,99"
+8780,"BARRAGEM DE DEPOSIÇÃO DE LAMA","Média","Baixa","Sem emergência",NULL,"Ativa","01/06/1997",NULL,NULL
+8704,"BARRAGEM DE FINOS II","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","03/01/2011","13","956.091,51"
+8182,"BARRAGEM DE FLOTAÇÃO","Baixa","Alta","Sem emergência",NULL,"Ativa","01/02/2013",NULL,NULL
+8773,"BARRAGEM DE GABIÕES","Baixa","Baixa","Sem emergência","Enrocamento","Inativa","01/04/2021","5","30.000,00"
+8765,"Barragem de Germano","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","01/01/1978",NULL,NULL
+8183,"BARRAGEM DE LIXIVIAÇÃO","Baixa","Alta","Sem emergência",NULL,"Ativa","01/02/2013",NULL,NULL
+8901,"Barragem de Mercês","Baixa","Baixa","Sem emergência",NULL,"Em Descaracterização","01/11/2000",NULL,NULL
+10030,"BARRAGEM DE MINERAÇÃO","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","26/10/2022","7",NULL
+9667,"Barragem de Mineração-CPM","Média","Baixa","Sem emergência",NULL,"Inativa","01/01/2021",NULL,NULL
+10518,"BARRAGEM DE MINERAÇÃO HUMBERTO","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","01/01/2019","7","53.642,08"
+10097,"Barragem de Rejeito - Mineração Ouro Fino","Baixa","Baixa","Sem emergência",NULL,"Ativa","15/01/2024",NULL,NULL
+10369,"Barragem de Rejeito 01","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","05/01/2022","6,5","35.869,90"
+8953,"Barragem de Rejeito 01","Alta","Baixa","Emergência Nivel 1","Terra Homogênea","Inativa","07/08/2009","15","54.608,00"
+9425,"Barragem de Rejeito 1","Média","Média","Sem emergência",NULL,"Em Descaracterização","08/11/2012",NULL,NULL
+10007,"Barragem de Rejeito Almas","Baixa","Baixa","Sem emergência",NULL,"Ativa","05/06/2023",NULL,NULL
+10179,"Barragem de Rejeito Capim Gold 2","Baixa","Baixa","Sem emergência","-","Em Construção","-",NULL,NULL
+9459,"Barragem de Rejeito Estrela","Média","Alta","Sem emergência","Terra Homogênea","Ativa","14/07/2011","18",NULL
+9460,"Barragem de Rejeito Estrela 02","Média","Alta","Sem emergência","Terra Homogênea","Inativa","17/03/2014","9",NULL
+9018,"Barragem de Rejeito Estrela 03","Média","Alta","Sem emergência","Terra Homogênea","Inativa","10/10/2016","10","668.750,00"
+8972,"Barragem de Rejeito Max","Média","Média","Sem emergência","Terra Homogênea","Ativa","05/11/2012","16,03","1.801.908,94"
+8723,"Barragem de rejeito não magnético 02","Baixa","Média","Sem emergência",NULL,"Ativa","02/02/2015",NULL,NULL
+8724,"Barragem de rejeito não magnético 03","Baixa","Média","Sem emergência",NULL,"Ativa","01/02/2017",NULL,NULL
+9383,"Barragem de Rejeito Não Magnético 04","Baixa","Média","Sem emergência",NULL,"Ativa","03/06/2019",NULL,NULL
+10292,"BARRAGEM DE REJEITO NORMA","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","26/04/2024","5","50.000,00"
+8929,"Barragem de Rejeitos","Baixa","Alta","Sem emergência",NULL,"Ativa","29/09/2014",NULL,NULL
+8569,"BARRAGEM DE REJEITOS","Baixa","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","01/04/2005","19","237.849,55"
+10117,"Barragem de Rejeitos - BAR","Baixa","Alta","Nível de Alerta",NULL,"Inativa","01/01/1980",NULL,NULL
+9012,"Barragem de Rejeitos Bom Futuro","Média","Média","Sem emergência",NULL,"Ativa","01/01/2017",NULL,NULL
+8669,"Barragem de Rejeitos de Irecê","Baixa","Baixa","Sem emergência","Rejeito","Ativa","23/07/2008","4",NULL
+9147,"Barragem de Rejeitos do Córrego Baco Pari","Baixa","Alta","Sem emergência",NULL,"Ativa","01/03/2007",NULL,NULL
+8707,"BARRAGEM DE REJEITOS DO MIRIM","Baixa","Alta","Sem emergência",NULL,"Ativa","25/05/2012",NULL,NULL
+9027,"BARRAGEM DE REJEITOS PGDM","Alta","Alta","Emergência Nivel 1",NULL,"Ativa","01/09/2013",NULL,NULL
+9784,"Barragem de Rejeitos SB 02","Alta","Alta","Emergência Nivel 1","Terra / Enrocamento","Ativa","10/12/2021","23,5","1.032.715,44"
+8371,"Barragem de Sedimentos da Pedreira Itapeti - BA1","Baixa","Baixa","Sem emergência",NULL,"Em Descaracterização","01/01/1978",NULL,NULL
+8374,"Barragem de Sedimentos da Pedreira Itapeti - BA2","Baixa","Baixa","Sem emergência",NULL,"Em Descaracterização","01/01/1978",NULL,NULL
+8367,"Barragem de Sedimentos da Pedreira Juruaçu - BA4","Baixa","Baixa","Sem emergência",NULL,"Em Descaracterização","01/01/1988",NULL,NULL
+9304,"BARRAGEM DIQUE 2","Baixa","Baixa","Sem emergência",NULL,"Em Descaracterização","01/05/2005",NULL,NULL
+9355,"Barragem do Bandeira","Alta","Média","Emergência Nivel 1",NULL,"Inativa","14/11/2019",NULL,NULL
+8880,"BARRAGEM DO BURACO","Baixa","Alta","Sem emergência",NULL,"Ativa","20/11/1978",NULL,NULL
+8637,"Barragem do Felipe","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","01/10/1985","13","300.000,00"
+9296,"Barragem do Fundão","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/01/1980","9","20.000,00"
+8576,"BARRAGEM DO LAGARTO","Baixa","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","15/09/1997","8","210.000,00"
+8643,"Barragem do Mirante I e II","Baixa","Média","Sem emergência",NULL,"Ativa","11/03/2001",NULL,NULL
+8639,"Barragem do Muriacá","Baixa","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","11/11/2005","10","100.000,00"
+9263,"BARRAGEM DO SABÃO I","Baixa","Alta","Sem emergência",NULL,"Ativa","24/01/2019",NULL,NULL
+9376,"Barragem do Serginho","Alta","Média","Emergência Nivel 1",NULL,"Ativa","12/01/2017",NULL,NULL
+9136,"BARRAGEM DO SOSSEGO","Baixa","Alta","Sem emergência",NULL,"Ativa","01/05/2002",NULL,NULL
+10185,"Barragem do Vené II","Média","Alta","Sem emergência",NULL,"Ativa","30/12/2023",NULL,NULL
+8690,"BARRAGEM DO VIGIA","Baixa","Alta","Sem emergência","Rejeito","Em Descaracterização","01/01/1994","11,3",NULL
+9297,"Barragem dos Coqueiros","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/01/1980","7","2.500,00"
+8495,"Barragem E","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","31/12/1985","13,96","51.208,89"
+8696,"BARRAGEM ECOLÓGICA 1","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","01/01/1989","15","41.000,00"
+9286,"Barragem Eixo 1","Baixa","Alta","Sem emergência","Terra / Enrocamento","Em Descaracterização","23/04/2020","41","818.336,79"
+9020,"Barragem EPP","Baixa","Alta","Sem emergência",NULL,"Ativa","01/06/2012",NULL,NULL
+8431,"Barragem Eustáquio","Baixa","Alta","Sem emergência",NULL,"Ativa","04/01/2010",NULL,NULL
+8501,"Barragem F","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","31/12/1976","30","190.140,65"
+9747,"Barragem Fazenda Aguassu","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","08/11/2022","2,5","8.913,12"
+9393,"BARRAGEM GEOMINAS","Alta","Média","Emergência Nivel 1","Terra Homogênea","Ativa","01/01/2015","5","9.750,00"
+9406,"BARRAGEM GEOMINAS-001","Baixa","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","01/01/2015","8","86.000,00"
+9407,"BARRAGEM GEOMINAS-002","Baixa","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","01/01/2015","8","70.800,00"
+10356,"Barragem GMX","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+9650,"Barragem I","Baixa","Baixa","Sem emergência",NULL,"Ativa","13/06/2020",NULL,NULL
+9986,"Barragem II","Baixa","Baixa","Sem emergência",NULL,"Inativa","01/06/2021",NULL,NULL
+9624,"Barragem Jatobá","Baixa","Média","Sem emergência","Terra / Enrocamento","Ativa","11/07/2022","12","923.322,43"
+9840,"Barragem Jauru","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+10290,"BARRAGEM JF ROST","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","04/05/2023","9","17.920,00"
+9806,"Barragem JL","Baixa","Baixa","Sem emergência",NULL,"Ativa","09/06/2015",NULL,NULL
+9773,"BARRAGEM JVR","Média","Alta","Sem emergência","Terra Homogênea","Ativa","20/03/2018","20,75","326.784,00"
+8412,"Barragem Lauro Muller","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","03/06/2013","20","150.000,00"
+9581,"Barragem Lauro Muller - Bacia 4","Baixa","Alta","Sem emergência","Terra Homogênea","Em Descaracterização","04/09/2020","20","15.000,00"
+9352,"Barragem Mãe D'Água","Alta","Alta","Emergência Nivel 1","Terra / Enrocamento","Inativa","01/03/1971","48","3.640.000,00"
+9651,"Barragem Magrini","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","21/05/2012","10,91","172.869,61"
+10336,"BARRAGEM MANAH 1","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","02/01/2014","12","520.300,00"
+8907,"Barragem MCSA","Baixa","Média","Sem emergência",NULL,"Ativa","01/01/1980",NULL,NULL
+10245,"Barragem Metago","Média","Baixa","Sem emergência",NULL,"Inativa","01/01/1979",NULL,NULL
+9212,"Barragem Morro Pelado","Média","Baixa","Sem emergência",NULL,"Ativa","15/12/2016",NULL,NULL
+9252,"Barragem Morro Pelado 2","Média","Baixa","Sem emergência","Terra / Enrocamento","Inativa","13/03/2014","14,8","891.354,00"
+9021,"Barragem MRDM","Baixa","Alta","Sem emergência",NULL,"Ativa","10/07/2013",NULL,NULL
+8291,"Barragem MSG","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","01/10/1989",NULL,NULL
+10058,"Barragem MSJ","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/07/2024",NULL,NULL
+9896,"Barragem Novo Astro","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+9540,"Barragem Oriente01","Baixa","Baixa","Sem emergência","Rejeito","Inativa","16/07/2018","6","90.000,00"
+8554,"Barragem Paciência","Baixa","Alta","Sem emergência","Terra Homogênea","Em Descaracterização","01/08/2007","34","1.409.000,00"
+10342,"Barragem PM1","Baixa","Baixa","Sem emergência","-","Em Construção","-",NULL,NULL
+9800,"Barragem Quéias","Alta","Alta","Emergência Nivel 1","Rejeito","Inativa","01/12/1996","15",NULL
+10316,"Barragem Rejeito Max 2","Baixa","Baixa","Sem emergência","-","Em Construção","-",NULL,NULL
+9000,"BARRAGEM REJEITOS","Alta","Alta","Emergência Nivel 1",NULL,"Em Descaracterização","01/01/1999",NULL,NULL
+8391,"Barragem Rio Fiorita","Baixa","Alta","Sem emergência",NULL,"Ativa","01/06/2008",NULL,NULL
+8931,"Barragem Salinas 1","Média","Baixa","Sem emergência",NULL,"Inativa","01/04/2003",NULL,NULL
+8504,"Barragem Samambaia 0 (Zero)","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","01/07/2010",NULL,NULL
+10377,"Barragem Sankara","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+8721,"Barragem Santa Helena","Média","Baixa","Sem emergência","Rejeito","Ativa","01/04/2013","14","7.500,00"
+8732,"Barragem Santa Rita","Baixa","Alta","Sem emergência",NULL,"Ativa","01/11/2009",NULL,NULL
+8433,"Barragem Santo Antônio","Baixa","Alta","Sem emergência",NULL,"Ativa","19/05/1986",NULL,NULL
+8829,"BARRAGEM SÃO GERALDO","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/01/2013","3","5.250,00"
+8830,"BARRAGEM SAO GERALDO 02","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/01/2014","3","10.500,00"
+8955,"Barragem Serra Azul","Alta","Alta","Emergência Nivel 3",NULL,"Em Descaracterização","09/01/1987",NULL,NULL
+9844,"Barragem Serrinha","Média","Baixa","Sem emergência",NULL,"Ativa","17/10/2001",NULL,NULL
+9660,"BARRAGEM SERROTE","Baixa","Alta","Sem emergência",NULL,"Ativa","15/07/2021",NULL,NULL
+9186,"Barragem Sul","Alta","Alta","Emergência Nivel 1",NULL,"Em Descaracterização","01/08/2008",NULL,NULL
+8625,"BARRAGEM SUL OU TANQUE VELHO","Baixa","Baixa","Sem emergência",NULL,"Ativa","10/03/1995",NULL,NULL
+9001,"BARRAGEM T01","Média","Média","Sem emergência",NULL,"Ativa","20/03/2008",NULL,NULL
+9022,"BARRAGEM T02","Média","Média","Sem emergência",NULL,"Ativa","08/03/2012",NULL,NULL
+9023,"BARRAGEM T03","Média","Baixa","Sem emergência",NULL,"Ativa","20/03/2013",NULL,NULL
+9246,"Barragem T04","Média","Baixa","Sem emergência",NULL,"Inativa","18/12/2012",NULL,NULL
+9426,"Barragem T05","Baixa","Baixa","Sem emergência","Terra Homogênea","Inativa","03/03/2010","13,49","483.417,27"
+9427,"Barragem T06","Baixa","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","15/08/2017","5,45","64.112,61"
+9662,"Barragem T08","Média","Média","Sem emergência",NULL,"Ativa","24/08/2022",NULL,NULL
+9663,"Barragem T09","Média","Baixa","Sem emergência",NULL,"Ativa","08/08/2023",NULL,NULL
+8831,"BARRAGEM TABOQUINHA","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/01/2015","4,5","7.500,00"
+8832,"BARRAGEM TARILÂNDIA 01","Média","Baixa","Sem emergência",NULL,"Ativa","01/01/2016",NULL,NULL
+9783,"Barragem TB","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+9559,"Barragem TB02","Baixa","Média","Sem emergência",NULL,"Ativa","02/08/2021",NULL,NULL
+10194,"Barragem Tocantinzinho","Baixa","Alta","Sem emergência",NULL,"Ativa","06/07/2024",NULL,NULL
+9687,"Barragem Torio 01","Baixa","Baixa","Sem emergência",NULL,"Ativa","18/11/2020",NULL,NULL
+9474,"Barragem Torto","Baixa","Alta","Sem emergência",NULL,"Ativa","01/07/2023",NULL,NULL
+8835,"BARRAGEM URUPA 01","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/01/2013","3","31.250,00"
+8337,"BARRAGEM USINA BENEFICIAMENTO ESPONGILITO - IVA","Média","Baixa","Sem emergência",NULL,"Ativa","01/01/1994",NULL,NULL
+8338,"BARRAGEM USINA BENEFICIAMENTO ESPONGILITO - IVB","Média","Baixa","Sem emergência",NULL,"Ativa","01/01/1994",NULL,NULL
+8350,"BARRAGEM USINA BENEFICIAMENTO L7 - IIA","Média","Baixa","Sem emergência",NULL,"Ativa","01/01/1994",NULL,NULL
+8351,"BARRAGEM USINA BENEFICIAMENTO L8 - IIIA","Média","Baixa","Sem emergência",NULL,"Ativa","01/01/1994",NULL,NULL
+8352,"BARRAGEM USINA BENEFICIAMENTO L8 - IIIB","Média","Baixa","Sem emergência",NULL,"Ativa","01/01/1994",NULL,NULL
+8253,"BARRAGEM USINA SANTALUZ BENEFICIAMENTO - BII","Média","Baixa","Sem emergência",NULL,"Ativa","01/01/1994",NULL,NULL
+8254,"BARRAGEM USINA SANTALUZ BENEFICIAMENTO - BIII","Média","Baixa","Sem emergência",NULL,"Ativa","01/01/1994",NULL,NULL
+8255,"BARRAGEM USINA SANTALUZ BENEFICIAMENTO BI","Média","Baixa","Sem emergência",NULL,"Ativa","01/01/1994",NULL,NULL
+9187,"BARRAGEM USINA/CIP - LAGO 1 E 2","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","15/10/1988",NULL,NULL
+9188,"BARRAGEM USINA/CIP - LAGO 3","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","24/03/2000",NULL,NULL
+9189,"BARRAGEM USINA/CIP - LAGO 4","Baixa","Alta","Sem emergência",NULL,"Ativa","21/11/2014",NULL,NULL
+10320,"Barragem VERA","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Inativa","01/06/2021","2","110.000,00"
+10321,"Barragem XAVIER","Baixa","Baixa","Sem emergência","Rejeito","Inativa","01/05/2021","5","103.000,00"
+10014,"Barragem_Valdenir2","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","02/09/2019","8","1.250.000,00"
+8540,"Barramento 1","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","20/08/1995","4","56.000,00"
+8547,"Barrragem do Vené","Alta","Alta","Emergência Nivel 1",NULL,"Em Descaracterização","08/08/2018",NULL,NULL
+10308,"Beariz","Baixa","Baixa","Sem emergência","-","Em Construção","-",NULL,NULL
+10508,"Beariz 2","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","02/09/2024","11,7","44.394,33"
+9277,"Belíssima","Média","Média","Nível de Alerta","Terra Homogênea","Em Descaracterização","01/10/2017","4,5","964.820,00"
+9551,"Berion","Média","Média","Sem emergência","Terra / Enrocamento","Inativa","22/03/2019","15","529.650,00"
+9921,"BIG BERION","Média","Média","Sem emergência","Terra / Enrocamento","Ativa","25/11/2021","13,5","534.059,00"
+9240,"Boa Sorte","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/03/2010","3","365.000,00"
+8459,"BOM PASTOR","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/06/2017","14","660.000,00"
+9374,"Bom Retiro 2","Média","Alta","Nível de Alerta",NULL,"Em Descaracterização","22/10/2008",NULL,NULL
+8312,"Borrachudo","Baixa","Alta","Sem emergência","Concreto","Ativa","01/01/1943","4,49","127.585,00"
+8313,"Borrachudo II","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","14/08/2015","21,31","87.739,00"
+9706,"BP-01","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","16/03/2020","5","102.383,98"
+9707,"BP-02","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","16/03/2020","8","77.148,78"
+9785,"BR ÁGUA DE COCO","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","01/01/2012","10,05","116.418,06"
+9948,"BR ÁGUIA DO SOL","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","18/08/2022","6","21.983,00"
+9259,"BR BOSCO","Média","Média","Sem emergência","Terra / Enrocamento","Ativa","01/01/2013","20,61","1.300.000,00"
+9644,"BR BRASÃO","Alta","Baixa","Emergência Nivel 1","Terra Homogênea","Inativa","01/01/2010","8,4","374.101,55"
+9428,"BR ISMAEL","Média","Média","Sem emergência",NULL,"Inativa","12/12/2016",NULL,NULL
+9548,"BR PIRÂMIDE","Média","Média","Sem emergência","Terra / Enrocamento","Ativa","15/02/2020","15","800.000,00"
+9461,"BR SANTA 01","Média","Alta","Sem emergência","Terra Homogênea","Inativa","01/05/2012","16",NULL
+9258,"BR SANTA FELICIDADE","Baixa","Média","Sem emergência","Terra / Enrocamento","Inativa","01/07/2015","13,1","650.000,00"
+9547,"BR SANTA FELICIDADE 02","Baixa","Baixa","Sem emergência",NULL,"Ativa","03/07/2024",NULL,NULL
+9575,"BR SANTA FELICIDADE 03","Média","Alta","Sem emergência","Terra Homogênea","Em Descaracterização","01/06/2018","10,6",NULL
+10049,"BR SANTA FELICIDADE 04","Baixa","Baixa","Sem emergência","-","Em Construção","-",NULL,NULL
+10128,"BR02","Alta","Alta","Emergência Nivel 1",NULL,"Ativa","01/06/2022",NULL,NULL
+10129,"BR03","Média","Baixa","Sem emergência",NULL,"Ativa","01/06/2022",NULL,NULL
+9649,"BRASE01","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","18/08/2018","1","46.987,00"
+8975,"BRAVO 1","Baixa","Média","Sem emergência",NULL,"Ativa","17/08/2017",NULL,NULL
+9728,"BRAVO II","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+10296,"BRAVO IV","Baixa","Baixa","Sem emergência","-","Em Construção","-",NULL,NULL
+9801,"brejão","Baixa","Baixa","Sem emergência","Terra Homogênea","Inativa","15/05/2015","5","379.500,00"
+9807,"BRITO","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","15/08/2017","10","461.970,00"
+8385,"C - PDE Nordeste","Média","Baixa","Sem emergência","Enrocamento","Inativa","01/01/2006","8","15.377,28"
+9170,"CA01","Média","Baixa","Sem emergência",NULL,"Inativa","01/01/1995",NULL,NULL
+9171,"CA02","Média","Baixa","Sem emergência",NULL,"Inativa","01/01/1995",NULL,NULL
+9480,"CA03","Baixa","Baixa","Sem emergência",NULL,"Ativa","09/03/2015",NULL,NULL
+9481,"CA04","Baixa","Baixa","Sem emergência",NULL,"Inativa","16/01/2017",NULL,NULL
+9251,"Cabeceiras","Baixa","Média","Sem emergência",NULL,"Ativa","31/01/2005",NULL,NULL
+8911,"Cachoeirinha","Baixa","Alta","Sem emergência","Terra Homogênea","Em Descaracterização","01/10/2003","50","1.489.629,89"
+10233,"CAFUNDÓ","Média","Baixa","Sem emergência","Terra / Enrocamento","Inativa","01/03/2021","12,8","500.000,00"
+9826,"Cajueiro","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+8641,"CALCINADOS","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","30/10/1986",NULL,NULL
+8937,"Califórnia","Baixa","Alta","Sem emergência",NULL,"Ativa","30/07/1996",NULL,NULL
+8314,"Cambucal I","Baixa","Alta","Sem emergência","Terra Homogênea","Inativa","01/01/1981","16,15","133.844,00"
+8315,"Cambucal II","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/1981","20,88","116.716,00"
+8905,"CAMC","Baixa","Baixa","Sem emergência","Rejeito","Ativa","10/06/2000","13",NULL
+8209,"Campo Grande","Média","Alta","Sem emergência",NULL,"Em Descaracterização","01/12/1998",NULL,NULL
+9552,"Campos","Média","Baixa","Sem emergência","Terra / Enrocamento","Inativa","03/12/2019","16","331.450,00"
+8615,"CAMPOS","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","03/08/2009","10","1.248.000,00"
+8465,"CANGAS","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","23/01/2009","22","400.000,00"
+9098,"Capão da Serra","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/09/1996","50,9","3.857.940,00"
+8220,"Capim Branco","Baixa","Média","Sem emergência","Terra / Enrocamento","Inativa","01/01/1989","27","105.254,00"
+9005,"CASA DE PEDRA","Média","Alta","Sem emergência",NULL,"Inativa","10/03/1987",NULL,NULL
+9250,"Casarão","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","30/01/2005","15,3","44.584,30"
+10059,"CATARINO","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","10/08/2023","6","46.400,00"
+9237,"CAVA 1","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","-","0","120.000,00"
+9238,"CAVA 2","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","-","0","92.000,00"
+9216,"CAVA B","Baixa","Baixa","Sem emergência",NULL,"Inativa","01/01/2010",NULL,NULL
+9227,"Cava Camarinha","Baixa","Alta","Sem emergência",NULL,"Ativa","30/12/2005",NULL,NULL
+8751,"Cava do Germano","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","01/09/2001",NULL,NULL
+9228,"Cava Pedrinhas","Baixa","Alta","Sem emergência",NULL,"Ativa","28/02/2009",NULL,NULL
+10195,"Célula 01","Baixa","Alta","Sem emergência",NULL,"Ativa","06/07/2024",NULL,NULL
+8316,"Cemig I","Baixa","Alta","Sem emergência","Terra / Enrocamento","Ativa","01/01/1984","35,2","7.535.382,00"
+8317,"Cemig II","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/1993","26,08","875.441,32"
+10294,"Chácara Santa Maria","Média","Baixa","Sem emergência","Rejeito","Inativa","15/01/1987","7",NULL
+8921,"CHAPADINHA 061","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","-","6","565.500,00"
+9535,"Chapadinha 061 B","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","13/02/2013","0","1.736.000,00"
+8922,"CHAPADINHA 221","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","-","10,6","740.000,00"
+8476,"CHICO","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/05/2017","11","484.000,00"
+9793,"CHIMBUVA","Média","Média","Sem emergência",NULL,"Ativa","28/07/2021",NULL,NULL
+8282,"Cianita 1","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/2014","20,17","505.927,68"
+9404,"Cianita 2","Baixa","Média","Sem emergência","Enrocamento","Ativa","01/01/2019","9,1","5.937,00"
+9405,"Cianita 3","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","01/01/2019","25","62.254,20"
+8663,"COCURUTO","Baixa","Alta","Sem emergência",NULL,"Ativa","30/11/1983",NULL,NULL
+8318,"Conceição","Baixa","Alta","Sem emergência",NULL,"Ativa","01/01/1977",NULL,NULL
+9219,"Conjunto de cavas em desativação recuperação","Baixa","Média","Sem emergência","Rejeito","Inativa","15/02/2010","8","852.653,00"
+8695,"CONTENÇÃO DE FINOS DE CDS I","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/1998","13",NULL
+8664,"CONTENÇÃO DE REJEITOS DE CDS II","Média","Alta","Sem emergência",NULL,"Em Descaracterização","01/01/1986",NULL,NULL
+8667,"CONTENÇÃO DE REJEITOS DE CUIABÁ","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","02/01/2007",NULL,NULL
+9218,"Conterpa","Baixa","Média","Sem emergência","Terra / Enrocamento","Ativa","07/05/2019","6,5",NULL
+8429,"COQUEIRAL","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","02/08/2006","21","402.185,00"
+9137,"CSO1","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/11/2006","6","1"
+8614,"D-1","Baixa","Baixa","Sem emergência",NULL,"Ativa","15/03/1994",NULL,NULL
+8617,"D-2","Baixa","Baixa","Sem emergência",NULL,"Ativa","15/03/1994",NULL,NULL
+8624,"D-3","Baixa","Baixa","Sem emergência",NULL,"Ativa","15/03/1994",NULL,NULL
+9679,"Davi","Média","Média","Sem emergência","Terra / Enrocamento","Ativa","15/06/2020","17","670.000,00"
+9220,"decantação de finos / reservatorio agua processo","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","10/05/2009","12","90.000,00"
+9226,"Deposito de Finos Porto de Areia Serramar","Média","Baixa","Sem emergência",NULL,"Ativa","01/05/2011",NULL,NULL
+9077,"Deposito de Rejeito R4","Média","Alta","Sem emergência","Terra Homogênea","Em Descaracterização","20/04/2002","10","1.190.000,00"
+8368,"Dicão","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/2007","30,4","1.155.067,00"
+8210,"Dicão Leste","Baixa","Alta","Nível de Alerta","Terra Homogênea","Ativa","04/01/1988","13,26","550.267,46"
+9854,"DIEGO","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+8369,"Diogo","Baixa","Alta","Sem emergência",NULL,"Ativa","01/10/1993",NULL,NULL
+9306,"Dique - Pilha 2","Baixa","Baixa","Sem emergência","Rejeito","Ativa","15/09/2012","2","250"
+9307,"Dique - Pilha 4","Baixa","Baixa","Sem emergência","Rejeito","Ativa","07/07/2017","8","183"
+8482,"Dique - Pilha de Rejeito","Média","Baixa","Sem emergência","Rejeito","Ativa","18/05/1978","10",NULL
+8942,"Dique 01 - Serra Azul","Média","Baixa","Sem emergência","Rejeito","Ativa","24/10/1994","14",NULL
+8957,"Dique 01 de Terra","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","01/01/1987","9",NULL
+8509,"Dique 01 Serra Azul - Dique Vai e Volta 1","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","04/01/2010","13","30.000,00"
+8943,"Dique 02 - Pitangui","Média","Baixa","Sem emergência","Rejeito","Ativa","24/10/1994","6",NULL
+8513,"Dique 02 Serra Azul - Dique Vai e Volta 2","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","04/01/2010","12","45.000,00"
+8963,"Dique 03","Média","Baixa","Sem emergência","Rejeito","Ativa","11/03/1991","5",NULL
+8514,"Dique 03 Serra Azul - Dique Vai e Volta 3","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","04/01/2010","11,45","76.000,00"
+8271,"Dique 04","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","01/12/2008","5,9","87.700,00"
+8272,"Dique 05","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","30/10/2008","10,85","405.554,90"
+8515,"Dique 06","Média","Baixa","Sem emergência","Rejeito","Ativa","04/01/2010","12",NULL
+8287,"Dique 06","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","06/12/2010","10,5","78.000,00"
+8944,"Dique 06 - Véu da Noiva Jusante","Média","Baixa","Sem emergência","Rejeito","Ativa","24/10/1994","14",NULL
+8945,"Dique 08 - Pátio CMC","Média","Baixa","Sem emergência","Rejeito","Ativa","24/10/1994","12",NULL
+9295,"Dique 1","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","14/05/1982","2","300"
+9631,"Dique 1","Média","Baixa","Sem emergência","Enrocamento","Ativa","01/06/2011","5,6","2.221,75"
+9056,"Dique 1 (Barragem 2 -Britagem)","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Em Descaracterização","10/06/1989","14","74.135,00"
+10247,"Dique 1010","Baixa","Alta","Sem emergência","Terra / Enrocamento","Inativa","31/12/1977","19,55","246.829,00"
+8516,"Dique 13 - Pains","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","04/01/2010","12,45","54.000,00"
+8517,"Dique 14","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","04/01/2022","9,93","54.000,00"
+9298,"Dique 2","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","14/05/1982","3","100"
+9988,"DIQUE 2","Alta","Média","Emergência Nivel 1",NULL,"Ativa","20/03/2022",NULL,NULL
+8958,"Dique 2 de Concreto","Média","Baixa","Sem emergência","Concreto","Ativa","01/01/1987","3","200"
+9299,"Dique 3","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","14/05/1982","1,5","25"
+8908,"Dique 3","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","01/01/1980","1,5","440.000,00"
+9058,"Dique 3 (Barragem 1 - Portaria)","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Em Descaracterização","15/12/2010","20","170.000,00"
+9059,"Dique 4 (Barragem 3 - Bota fora)","Média","Baixa","Sem emergência","Terra / Enrocamento","Inativa","20/07/1989","8","15.000,00"
+9060,"Dique 5 (Barragem 4 - Bota fora)","Média","Baixa","Sem emergência","Terra / Enrocamento","Inativa","15/12/2010","10","12.000,00"
+9678,"Dique B2","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","02/08/2019","9,78","27.700,00"
+9281,"Dique B2 - Pilha de Estéril João Manoel","Média","Baixa","Sem emergência","Enrocamento","Ativa","01/02/2009","10","8.000,00"
+5865,"Dique B3","Alta","Alta","Emergência Nivel 1","Terra / Enrocamento","Inativa","21/08/2002","23,5","15.431,00"
+9282,"Dique B3 - Pilha de Estéril João Manoel","Média","Baixa","Sem emergência","Concreto","Ativa","01/07/1991","10","12.000,00"
+5866,"Dique B4","Alta","Alta","Emergência Nivel 1","Terra / Enrocamento","Inativa","21/08/2002","25","5.431,00"
+9113,"Dique BIII-2","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/04/1988","16","0"
+9114,"Dique BIII-3","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/04/1988","24","0"
+9301,"Dique BIII-6","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/01/1982","7,5","14.457,60"
+9302,"Dique BIII-7","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/01/1982","7,5","16.557,00"
+8533,"Dique BIV-3 - Dique Hércules","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","04/01/2010","13","15.524,00"
+9321,"Dique Conquistinha","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","-","5","30"
+8519,"Dique Couves (MUSA)","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","04/01/2010","8,8","3.800,00"
+8490,"DIQUE D","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","01/09/1997",NULL,NULL
+8520,"Dique da Divisa","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","04/01/2010","10","8.750,00"
+8532,"Dique da Mineira","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","04/01/2010","10,2","5.000,00"
+8521,"Dique da Oficina","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","04/01/2010","12","10.000,00"
+8522,"Dique da Oficina II","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","04/01/2022","9,4","5.600,00"
+9305,"Dique de Captação","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","25/02/2010","4","13.134,76"
+8946,"Dique de Concreto","Média","Baixa","Sem emergência","Concreto","Ativa","24/10/1994","4","1.600,00"
+8180,"Dique de Contenção de Salmoura","Baixa","Média","Sem emergência",NULL,"Ativa","31/12/1986",NULL,NULL
+8954,"Dique de Contenção de Sedimentos 02","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","06/10/2016","12,51","270.171,17"
+9433,"Dique de Contenção de Sedimentos 03","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","21/12/2018","15,5","318.258,04"
+9434,"Dique de Contenção de Sedimentos 04","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","21/12/2018","14,6","61.316,97"
+9818,"Dique de Contenção de Sedimentos 05","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","05/11/2021","13,45","194.546,65"
+10189,"Dique de Contenção de Sedimentos Crista","Baixa","Baixa","Sem emergência","Enrocamento","Ativa","01/01/2015","9,9","33.400,00"
+8467,"Dique de Contenção Pilha de Estéril MMR","Média","Baixa","Sem emergência","Enrocamento","Ativa","-","0","0"
+10310,"Dique de Finos","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","24/10/2024","14","164.438,80"
+8538,"Dique de Finos","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","30/06/2007","19","405.267,10"
+10276,"Dique de finos 01 - Depósito Área VIII","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","30/09/2024","13","0,01"
+9370,"Dique de finos 01 - Depósito Tamanduá","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","17/09/2018","7","10.500,00"
+9371,"Dique de finos 02 - Depósito Tamanduá","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","31/12/2018","14,8","0,01"
+9372,"Dique de finos 03 - Depósito Tamanduá","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","16/04/2018","6","600"
+9358,"Dique de Finos I","Baixa","Baixa","Sem emergência","Enrocamento","Ativa","16/11/2016","5","0,01"
+8618,"DIQUE DE FINOS I","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","02/09/2016","11","1.022.092,08"
+9359,"Dique de Finos II","Baixa","Baixa","Sem emergência","Enrocamento","Ativa","16/11/2016","5","17.073,00"
+8628,"DIQUE DE FINOS II","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","04/10/2010","16,42","3.408.418,69"
+8689,"DIQUE DE FINOS III","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","02/05/2011","16,5","6.910,69"
+9799,"Dique de Pedra","Baixa","Média","Sem emergência",NULL,"Inativa","31/08/2014",NULL,NULL
+8181,"Dique de Resíduos Insóluveis","Baixa","Média","Sem emergência",NULL,"Ativa","31/12/1999",NULL,NULL
+8758,"DIQUE DE SAÍDA DE CAVA","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","01/01/2009","8","11.250,00"
+9135,"Dique de Sedimentos da PDE Cava Sul","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","15/02/2012","9,9","10.000,00"
+8616,"DIQUE DO BICHENTO IIIA","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","02/02/2012","18,2","144.976,00"
+10013,"Dique do Dry Stacking","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","26/09/2022","3,88","42.243,00"
+8580,"DIQUE DO ESMERIL IV","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","07/12/2011","41,44","103.978,00"
+9765,"Dique do Grotão","Alta","Baixa","Emergência Nivel 2",NULL,"Em Descaracterização","09/02/2021",NULL,NULL
+9361,"Dique do Puma 01","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","30/10/2019","13,6","295.000,00"
+10193,"Dique do Puma 04","Baixa","Baixa","Sem emergência","Enrocamento","Ativa","03/07/2023","14","156.471,00"
+10237,"Dique do Puma 08","Baixa","Baixa","Sem emergência","Enrocamento","Ativa","23/01/2024","8,96","23.150,00"
+9477,"Dique dos Borges","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","01/03/2013","10","45.917,00"
+9360,"Dique dos Búfalos","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","03/08/2012","9,5","22.000,00"
+8523,"Dique Flotação","Baixa","Baixa","Sem emergência",NULL,"Ativa","04/01/2012",NULL,NULL
+8526,"Dique Intermediário","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","04/01/2010","12","12.000,00"
+9633,"Dique IV","Média","Baixa","Sem emergência","Terra / Enrocamento","Em Descaracterização","01/01/2002","2","5.098,49"
+8527,"Dique Leste I","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","04/01/2010","9,2","15.100,00"
+8528,"Dique Leste II","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","04/01/2010","10,6","7.100,00"
+8529,"Dique Leste III","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","04/01/2010","3,8","1.350,00"
+8913,"Dique Lisa","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","07/12/2007","12",NULL
+8530,"Dique Mazano","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","04/01/2010","10","10.120,00"
+9045,"Dique Norte da PDE 1","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","03/11/2015","25","13.801,46"
+8535,"Dique Oeste","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","28/05/2013","16,7","97.376,05"
+10174,"Dique PDE 1","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/04/2007","9","0"
+8179,"Dique Petrobrás","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","31/12/1990","6","6.362,07"
+10335,"Dique Pilha Brumado","Baixa","Baixa","Sem emergência","Enrocamento","Ativa","30/01/2025","9","3.259,00"
+9386,"Dique Portaria","Baixa","Baixa","Sem emergência","Enrocamento","Ativa","29/03/2021","14,4","34.957,20"
+8288,"Dique Provisorio 01","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","30/10/2008","6,2","28.500,00"
+8289,"Dique Provisorio 02","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","30/10/2008","4,8","21.300,00"
+9261,"Dique Quéias - Captação de Água","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","11/03/1991","5",NULL
+9279,"Dique S3","Baixa","Alta","Sem emergência","Enrocamento","Ativa","01/12/2016","12","2.950.000,00"
+9278,"Dique S4","Baixa","Alta","Sem emergência","Terra / Enrocamento","Ativa","27/01/2017","12,5","1.006.318,00"
+10357,"Dique Santa Cruz","Alta","Baixa","Emergência Nivel 1","Terra Homogênea","Inativa","01/06/2013","13","130.000,00"
+8734,"Dique Santa Rita","Média","Baixa","Sem emergência","Enrocamento","Ativa","01/08/2008","5","246.848,00"
+9634,"Dique V","Média","Baixa","Sem emergência","Terra / Enrocamento","Em Descaracterização","01/01/2002","9","45.664,00"
+9637,"Dique VII","Média","Baixa","Sem emergência","Terra / Enrocamento","Em Descaracterização","01/01/2007","7","20.000,00"
+9578,"Dorival","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+8207,"Doutor","Baixa","Alta","Nível de Alerta",NULL,"Em Descaracterização","01/01/2001",NULL,NULL
+9242,"Dutra","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/04/2018","4","130.000,00"
+8956,"EB-2","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/11/2014","53,5","65.804,41"
+9533,"ED Monjolo","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","01/01/1997",NULL,NULL
+9532,"ED Vale das Cobras","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","01/01/2010",NULL,NULL
+8370,"Elefante","Baixa","Média","Sem emergência","Terra Homogênea","Em Descaracterização","01/07/1988","18,6","420.949,34"
+9553,"Elvo 1","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","08/04/2019","15","331.450,00"
+9648,"Elvo Captação","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","08/04/2019","2","13.500,00"
+8347,"engebrita","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","01/01/1994","3,5","30.000,00"
+8184,"Estéril Sul","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","01/01/1986","21,43","2.288.561,00"
+9705,"FAZENDA 4M","Média","Média","Sem emergência","Terra / Enrocamento","Ativa","10/05/2005","18","681.382,04"
+9680,"Fazenda Nova","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","16/08/2010","14","470.418,35"
+8817,"Fazenda Santa Fé","Média","Baixa","Sem emergência",NULL,"Ativa","22/12/2002",NULL,NULL
+8386,"Fazendinha","Média","Baixa","Sem emergência","Enrocamento","Inativa","01/01/2009","7,3","3.830,74"
+9214,"Fiori","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/03/2009","8","325.000,00"
+8283,"Forquilha I","Alta","Alta","Emergência Nivel 2",NULL,"Em Descaracterização","31/12/1977",NULL,NULL
+8286,"Forquilha II","Alta","Alta","Emergência Nivel 2",NULL,"Em Descaracterização","31/12/1988",NULL,NULL
+8290,"Forquilha III","Alta","Alta","Emergência Nivel 2",NULL,"Em Descaracterização","31/12/1999",NULL,NULL
+8296,"Forquilha IV","Baixa","Alta","Nível de Alerta",NULL,"Inativa","01/02/2015",NULL,NULL
+8299,"Forquilha V","Baixa","Alta","Sem emergência",NULL,"Inativa","18/03/2021",NULL,NULL
+9561,"Fortuna","Alta","Alta","Emergência Nivel 1","Terra / Enrocamento","Ativa","15/06/2018","6","185.586,50"
+9664,"FRANCÊS","Média","Média","Sem emergência","Terra / Enrocamento","Ativa","01/05/2021","23","904.965,00"
+8464,"FRED","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/11/2013","19","150.000,00"
+8363,"Galego","Baixa","Alta","Sem emergência",NULL,"Inativa","01/01/1992",NULL,NULL
+8301,"Gambá","Média","Baixa","Sem emergência","Concreto","Ativa","01/01/1986","11,68","5.000,00"
+9401,"GAÚCHO","Baixa","Baixa","Sem emergência",NULL,"Em Descaracterização","01/06/2017",NULL,NULL
+8185,"Geladinho","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","21/12/1990","21","4.969.863,00"
+8186,"Gelado","Baixa","Alta","Sem emergência",NULL,"Ativa","20/12/1985",NULL,NULL
+8902,"GERAIS","Média","Baixa","Sem emergência",NULL,"Ativa","01/05/2001",NULL,NULL
+9468,"Gerais II","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/05/2001",NULL,NULL
+8603,"GONÇA","Baixa","Média","Sem emergência","Terra / Enrocamento","Ativa","19/10/2010","28","266.000,00"
+9499,"Grameiro","Média","Média","Sem emergência","Terra / Enrocamento","Ativa","04/03/2021","13","273.789,25"
+9168,"Gregório","Baixa","Alta","Sem emergência",NULL,"Ativa","01/01/1992",NULL,NULL
+8302,"Grupo","Média","Alta","Nível de Alerta",NULL,"Em Descaracterização","01/01/1971",NULL,NULL
+8948,"Guará 2","Média","Baixa","Sem emergência",NULL,"Inativa","20/10/2009",NULL,NULL
+8950,"Guará 3","Baixa","Alta","Nível de Alerta",NULL,"Em Descaracterização","19/01/2011",NULL,NULL
+9099,"Horizontes","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/2016","38,31","1.908.242,02"
+9148,"Igarapé Mutum","Média","Alta","Nível de Alerta",NULL,"Ativa","01/02/1989",NULL,NULL
+9103,"II","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","31/10/2011","18,71","4.682,72"
+9104,"III","Baixa","Alta","Nível de Alerta","Terra Homogênea","Ativa","30/08/2011","12,19",NULL
+9684,"Isa","Alta","Média","Emergência Nivel 1",NULL,"Ativa","08/04/2016",NULL,NULL
+8320,"Itabiruçu","Baixa","Alta","Sem emergência",NULL,"Ativa","01/01/1981",NULL,NULL
+9270,"Itamarati de Minas","Baixa","Alta","Sem emergência",NULL,"Ativa","02/02/1992",NULL,NULL
+8823,"ITAPEVA","Alta","Baixa","Emergência Nivel 1",NULL,"Inativa","05/04/2004",NULL,NULL
+9670,"JABURU","Alta","Média","Emergência Nivel 1","Terra / Enrocamento","Ativa","19/10/2017","15,5","253.888,88"
+9732,"JABURU 2","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+8187,"Jacaré","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","15/03/2018","33,5","673.177,00"
+9149,"Jacaré Inferior","Alta","Alta","Emergência Nivel 1",NULL,"Em Descaracterização","01/12/2012",NULL,NULL
+9150,"Jacaré Medio","Média","Alta","Sem emergência",NULL,"Em Descaracterização","01/10/1989",NULL,NULL
+9151,"Jacaré Superior","Alta","Alta","Emergência Nivel 1",NULL,"Em Descaracterização","01/10/1980",NULL,NULL
+8543,"JBS1","Baixa","Baixa","Sem emergência","Rejeito","Em Descaracterização","27/03/1991","12","331.920,00"
+8325,"Jirau","Baixa","Alta","Sem emergência","Concreto","Em Descaracterização","01/01/1972","15","1.105.472,94"
+8392,"JOAO PAULO","Baixa","Média","Sem emergência","Terra / Enrocamento","Ativa","02/02/2015","24","750.000,00"
+8194,"Kalunga","Baixa","Alta","Sem emergência",NULL,"Ativa","21/12/1987",NULL,NULL
+10349,"km 190","Alta","Baixa","Emergência Nivel 1","-","Inativa","02/08/1984","10","4.845.720,00"
+9711,"Labourrie","Média","Baixa","Sem emergência",NULL,"Ativa","10/01/1995",NULL,NULL
+9239,"Lagoa 1","Baixa","Média","Sem emergência",NULL,"Ativa","30/11/1971",NULL,NULL
+8537,"Lagoa 2","Baixa","Média","Sem emergência",NULL,"Ativa","30/11/1971",NULL,NULL
+9324,"Lagoa de Disposição n°04 - LD4","Baixa","Baixa","Sem emergência",NULL,"Ativa","05/06/2017",NULL,NULL
+9464,"Lagoa de Disposição n°05 - LD5","Baixa","Média","Sem emergência",NULL,"Ativa","23/07/2018",NULL,NULL
+8674,"LAGOA FACEL 3","Média","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","01/08/1980","6,75","600.000,00"
+8671,"LAGOA FACEL 4","Baixa","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","16/11/1999","7,73","241.750,00"
+9929,"Lagoa São Chico","Baixa","Baixa","Sem emergência","Enrocamento","Ativa","22/10/2017","3,3","256.005,87"
+10084,"LD-01","Baixa","Baixa","Sem emergência","-","Em Construção","-",NULL,NULL
+9847,"LD 8 - Lagoa de disposição 8","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","05/04/2023","0","0"
+9274,"LD1 - Lagoa de Disposição 01","Baixa","Média","Sem emergência",NULL,"Ativa","01/03/2009",NULL,NULL
+9275,"LD2 - Lagoa de Disposição 02","Baixa","Média","Sem emergência",NULL,"Ativa","01/03/2009",NULL,NULL
+9276,"LD3 - Lagoa de Disposição 03","Baixa","Média","Sem emergência",NULL,"Ativa","01/09/2013",NULL,NULL
+9505,"LD6 - Lagoa de Disposição 6","Baixa","Média","Sem emergência",NULL,"Ativa","01/10/2019",NULL,NULL
+9640,"LD7 - Lagoa de Disposição 7","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","30/08/2021","18,4","4.300.000,00"
+9273,"LE - Lagoa de Espessamento","Baixa","Média","Sem emergência",NULL,"Ativa","01/03/2007",NULL,NULL
+9605,"Leste","Baixa","Alta","Sem emergência","Terra / Enrocamento","Ativa","08/08/2018","30","5.289.545,61"
+9980,"LIPINISKY","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","15/07/2016","5","29.946,00"
+8396,"LU","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","02/03/2007","2","590.000,00"
+10373,"LV-01","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+9492,"MANÉ","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/10/2019",NULL,NULL
+9417,"Maney Mineração","Média","Baixa","Nível de Alerta",NULL,"Inativa","07/02/2011",NULL,NULL
+10260,"Manga","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","17/01/2024","23","401.540,00"
+8475,"MARANATA","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","19/02/2009","20","483.000,00"
+9470,"MARANATA II","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Inativa","01/06/2021","13","42.640,00"
+8303,"Maravilhas I","Média","Média","Sem emergência",NULL,"Ativa","01/12/1987",NULL,NULL
+8304,"Maravilhas II","Alta","Alta","Emergência Nivel 1",NULL,"Inativa","01/01/1996",NULL,NULL
+9437,"Maravilhas III","Baixa","Alta","Sem emergência",NULL,"Ativa","23/07/2021",NULL,NULL
+8938,"Marçu","Baixa","Média","Sem emergência",NULL,"Inativa","15/08/1982",NULL,NULL
+8305,"Marés I","Baixa","Alta","Sem emergência","Terra / Enrocamento","Ativa","01/01/1974","15,4","353.540,00"
+8307,"Marés II","Baixa","Alta","Sem emergência","Terra Homogênea","Inativa","01/01/2005","18,7","387.100,00"
+7471,"Mario Cruz","Média","Média","Sem emergência",NULL,"Inativa","01/01/2006",NULL,NULL
+9750,"Martins","Média","Média","Sem emergência","Terra / Enrocamento","Ativa","04/03/2003","18,23","237.158,36"
+10232,"Martins 2","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","19/02/2025","13",NULL
+9692,"MASSANGANA 01","Média","Baixa","Sem emergência","Terra / Enrocamento","Inativa","31/05/2018","2","24.854,23"
+9412,"MBR II NORTE","Média","Baixa","Sem emergência",NULL,"Inativa","07/12/2017",NULL,NULL
+9378,"MBR II SUL","Média","Alta","Nível de Alerta",NULL,"Em Descaracterização","01/06/2013",NULL,NULL
+10010,"MD-01","Baixa","Baixa","Sem emergência",NULL,"Ativa","08/02/2024",NULL,NULL
+9364,"MD 05/2016","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/12/2018",NULL,NULL
+9129,"Medrado 1","Média","Baixa","Sem emergência",NULL,"Ativa","30/03/1992",NULL,NULL
+9130,"Medrado 2","Média","Baixa","Sem emergência",NULL,"Inativa","30/12/1994",NULL,NULL
+9131,"Medrado 3","Média","Baixa","Sem emergência",NULL,"Ativa","30/05/2002",NULL,NULL
+8451,"Menezes I","Baixa","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","01/01/1994","16,13","16.148,05"
+8453,"Menezes II","Baixa","Alta","Sem emergência","Terra Homogênea","Em Descaracterização","01/01/1996","19,25","188.761,86"
+10099,"Mineração Livramento","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+9269,"Miraí","Baixa","Alta","Sem emergência",NULL,"Ativa","02/01/2008",NULL,NULL
+9081,"MNP-01","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Inativa","25/04/2014","5","4.000,00"
+9414,"Moça Bonita","Média","Baixa","Sem emergência",NULL,"Ativa","05/06/2018",NULL,NULL
+10045,"MOCOTÓ","Baixa","Baixa","Sem emergência","-","Em Construção","-",NULL,NULL
+8876,"Modulo 3","Baixa","Média","Sem emergência","Terra / Enrocamento","Ativa","31/12/1984","8","181.528,00"
+9994,"Módulo IV","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","03/10/2023","7,9","154.565,00"
+8555,"Moita","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","15/10/2009",NULL,NULL
+8372,"Monjolo","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/1988","23,16","884.595,51"
+8206,"Mosquito","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","29/06/1989","11,9","516.267,86"
+10267,"Mosquitos","Média","Baixa","Sem emergência","Terra / Enrocamento","Inativa","29/01/2023","7","3.356,80"
+10314,"Mosquitos 2","Média","Baixa","Sem emergência","Terra / Enrocamento","Inativa","25/02/2023","6","3.000,00"
+9803,"MULTI 1","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Inativa","01/10/2021","5","68.500,00"
+9733,"Neta","Alta","Alta","Emergência Nivel 1","Terra / Enrocamento","Ativa","15/09/2020","9","211.302,00"
+8373,"Norte/Laranjeiras","Alta","Alta","Emergência Nivel 1",NULL,"Inativa","01/04/2016",NULL,NULL
+9050,"North Mill Pond","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/08/2014","35","12.609.179,64"
+9990,"Nova Baixo João Pereira","Baixa","Média","Sem emergência","Terra / Enrocamento","Ativa","02/10/2024","21,26","75.540,00"
+8776,"Nova Barragem de Santarém","Baixa","Alta","Sem emergência","Terra / Enrocamento","Ativa","01/09/2017","48","4.956.519,91"
+9911,"Novo Astro I","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+9500,"Novo Dique dos Macacos","Baixa","Média","Sem emergência","Terra / Enrocamento","Ativa","30/09/2019","18,05","20.410,12"
+10218,"NSL 01","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","15/10/2012","9","262.768,40"
+8460,"OURINHOS I","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","09/07/2019","12","1.300.000,00"
+9034,"OURO BRANCO OESTE","Média","Alta","Nível de Alerta","Terra Homogênea","Inativa","05/05/2014","5,7","126.500,00"
+9400,"OURO FINO","Média","Média","Sem emergência",NULL,"Inativa","19/02/2009",NULL,NULL
+10114,"P.R.A","Média","Baixa","Sem emergência","Terra / Enrocamento","Inativa","28/03/2022","6","500"
+9154,"P1-1","Alta","Média","Emergência Nivel 1","Terra Homogênea","Em Descaracterização","01/03/1977","3","17.250,00"
+9441,"P6C01","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/03/2018",NULL,NULL
+9442,"P6C02","Baixa","Baixa","Sem emergência",NULL,"Ativa","02/05/2018",NULL,NULL
+9440,"P6C4","Baixa","Baixa","Sem emergência",NULL,"Ativa","15/02/2019",NULL,NULL
+8775,"Pau D'Arco","Média","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/1993","13,5","6.432.501,00"
+8379,"PDE 3","Baixa","Média","Sem emergência","Enrocamento","Ativa","06/04/2010","30,18","36.760,00"
+8406,"PDE Engano","Baixa","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","01/01/1997","7","12.912,54"
+8200,"PDE Fosforoso","Baixa","Média","Sem emergência","Enrocamento","Ativa","01/01/2008","20,1","9.823,07"
+8407,"PDE Lagoa Seca","Baixa","Baixa","Sem emergência","Terra Homogênea","Inativa","01/01/1997","10,5","10.626,16"
+8199,"PDE Permanente I","Baixa","Alta","Sem emergência","Enrocamento","Ativa","01/01/2004","6,7","53.384,47"
+8198,"PDE Permanente II - Fase I","Baixa","Média","Sem emergência","Enrocamento","Ativa","01/01/2006","7","6.952,50"
+9326,"PDE02","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","30/12/2019","7,91","181.840,00"
+9105,"Peneirinha","Baixa","Alta","Sem emergência","Terra Homogênea","Em Descaracterização","01/01/1970","42,42","1.038.010,00"
+8188,"Pera Jusante","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","06/04/2006","37,7","4.322.391,00"
+8189,"Pera Montante","Baixa","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","02/05/2005","14","264.520,00"
+8330,"Piabas","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/1984","29","2.123.001,93"
+9327,"Pilha 01 - P1C1","Baixa","Baixa","Sem emergência",NULL,"Ativa","02/02/2015",NULL,NULL
+9494,"PILHA 01 - P1C14","Baixa","Baixa","Sem emergência",NULL,"Ativa","03/02/2020",NULL,NULL
+9329,"Pilha 01 - P1C3","Baixa","Baixa","Sem emergência",NULL,"Ativa","05/05/2015",NULL,NULL
+9330,"Pilha 01 - P1C4","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/05/2015",NULL,NULL
+9331,"Pilha 01 - P1C5","Baixa","Baixa","Sem emergência",NULL,"Inativa","01/06/2015",NULL,NULL
+9332,"Pilha 01 - P1C6","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/09/2015",NULL,NULL
+9333,"Pilha 01 - P1C7","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/12/2015",NULL,NULL
+9334,"Pilha 01 - P1C8","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/02/2016",NULL,NULL
+9335,"Pilha 01 - P1C9","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/03/2017",NULL,NULL
+9655,"PILHA 01 - PIC16","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/04/2020",NULL,NULL
+9656,"PILHA 01 - PIC17","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/08/2020",NULL,NULL
+9506,"PILHA 01 - PIC1A","Baixa","Baixa","Sem emergência",NULL,"Ativa","02/03/2015",NULL,NULL
+9328,"Pilha 01 P1C2","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/04/2015",NULL,NULL
+9496,"PILHA 05 - P5C07","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/06/2019",NULL,NULL
+9497,"PILHA 05 - P5C08","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/12/2019",NULL,NULL
+9498,"PILHA 05 - P5C09","Baixa","Baixa","Sem emergência",NULL,"Ativa","02/01/2018",NULL,NULL
+9337,"Pilha 05 - P5C1","Baixa","Baixa","Sem emergência",NULL,"Inativa","01/06/2015",NULL,NULL
+9338,"Pilha 05 - P5C2","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/08/2015",NULL,NULL
+9339,"Pilha 05 - P5C3","Baixa","Baixa","Sem emergência",NULL,"Inativa","02/10/2015",NULL,NULL
+9340,"Pilha 05 - P5C4","Baixa","Baixa","Sem emergência",NULL,"Ativa","02/02/2017",NULL,NULL
+9341,"Pilha 05 - P5C5","Baixa","Baixa","Sem emergência",NULL,"Ativa","02/02/2017",NULL,NULL
+9343,"Pilha 05 - P5XC2","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/10/2015",NULL,NULL
+9342,"Pilha 05 - XC1","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/08/2015",NULL,NULL
+9465,"PILHA 06 - P6C3","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/06/2018",NULL,NULL
+9659,"PILHA 06 - P6C5","Baixa","Baixa","Sem emergência",NULL,"Ativa","19/10/2020",NULL,NULL
+9782,"Pilha 07 - P7C2","Baixa","Baixa","Sem emergência",NULL,"Ativa","23/04/2021",NULL,NULL
+9815,"PILHA 11 - P11C1","Média","Baixa","Sem emergência",NULL,"Ativa","24/09/2021",NULL,NULL
+9816,"PILHA 11 - P11C2","Baixa","Baixa","Sem emergência",NULL,"Ativa","15/10/2021",NULL,NULL
+9449,"PILHA01-C10","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/09/2017",NULL,NULL
+9450,"PILHA01-C11","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/05/2018",NULL,NULL
+9451,"PILHA01-C12","Média","Baixa","Sem emergência",NULL,"Ativa","20/05/2018",NULL,NULL
+9452,"PILHA01-C13","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/03/2019",NULL,NULL
+9453,"PILHA05-C06","Média","Baixa","Sem emergência",NULL,"Ativa","06/06/2017",NULL,NULL
+9455,"PILHA05-XC03","Baixa","Baixa","Sem emergência",NULL,"Ativa","10/12/2015",NULL,NULL
+9454,"PILHA07-C1","Média","Baixa","Sem emergência",NULL,"Ativa","23/04/2021",NULL,NULL
+9823,"PILHA11 - P11C3","Baixa","Baixa","Sem emergência",NULL,"Ativa","20/12/2021",NULL,NULL
+9824,"PILHA11 - P11C4","Baixa","Baixa","Sem emergência",NULL,"Ativa","31/03/2022",NULL,NULL
+9512,"PILHASUL - PCS1","Baixa","Baixa","Sem emergência",NULL,"Inativa","30/07/2017",NULL,NULL
+9513,"PILHASUL - PCS2","Baixa","Baixa","Sem emergência",NULL,"Ativa","30/08/2017",NULL,NULL
+9514,"PILHASUL - PCS3","Baixa","Baixa","Sem emergência",NULL,"Inativa","20/09/2017",NULL,NULL
+9248,"Pinheirinho","Média","Média","Sem emergência",NULL,"Ativa","01/08/1982",NULL,NULL
+8925,"PIRAPORÃO 138 II","Baixa","Baixa","Sem emergência","Terra Homogênea","Inativa","01/04/2014","4","28.000,00"
+8927,"PIRAPORÃO 138 III","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","01/07/2012","8","115.200,00"
+8622,"Piteiras","Média","Baixa","Sem emergência","Terra / Enrocamento","Inativa","-","2","2.000,00"
+9173,"Planta","Baixa","Alta","Nível de Alerta",NULL,"Em Descaracterização","02/09/2006",NULL,NULL
+9138,"PN - 1","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/11/2005","5","100.000,00"
+9139,"PN - 3","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","01/11/2011","6,5","1.120,00"
+9140,"PN - 4","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","01/11/2007","5","7.000,00"
+9141,"PN - 6","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","01/11/2011","5,5","50.000,00"
+8403,"Pocilga","Baixa","Baixa","Sem emergência","Terra Homogênea","Inativa","01/01/2010","9","38.558,57"
+9390,"Pond - PDE Sul","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","27/04/2016","8,46","40.207,96"
+8909,"POND 1 - BARRAGEM DE LIXIVIAÇÃO","Baixa","Alta","Sem emergência",NULL,"Ativa","02/08/2010",NULL,NULL
+8910,"POND 2 - BARRAGEM DE FLOTAÇÃO","Baixa","Alta","Sem emergência",NULL,"Ativa","13/10/2011",NULL,NULL
+8914,"POND 3 - BARRAGEM DE FLOTAÇÃO","Baixa","Alta","Sem emergência",NULL,"Ativa","13/10/2011",NULL,NULL
+8959,"Pond de Emergência","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","13/02/2014","4,5","333.438,00"
+8332,"Pontal","Alta","Alta","Emergência Nivel 1",NULL,"Em Descaracterização","01/01/1972",NULL,NULL
+8375,"Porteirinha","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","27/11/1997","28,9",NULL
+8730,"PORTO-4A","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","10/07/2000","8","933.900,00"
+8759,"PORTO-4B","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","20/05/2006","7","345.000,00"
+8308,"Prata","Baixa","Baixa","Sem emergência","Concreto","Ativa","30/12/1983","9,01","20.000,00"
+8405,"Principal","Média","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/1985","22,7","2.722.830,46"
+9143,"PS -1","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","01/11/2005","7","220.000,00"
+10033,"PURO OURO","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","10/07/2010","10,79","270.622,94"
+10322,"QB-01","Baixa","Baixa","Sem emergência","-","Em Construção","-",NULL,NULL
+9172,"Queimada","Média","Baixa","Sem emergência",NULL,"Ativa","11/03/2013",NULL,NULL
+9482,"QUEIMADA02","Baixa","Baixa","Sem emergência",NULL,"Ativa","15/05/2017",NULL,NULL
+9483,"QUEIMADA03","Baixa","Baixa","Sem emergência","Terra Homogênea","Inativa","12/08/2013","5","135.215,00"
+8548,"Quevedo 1","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","01/11/2010","8","96.500,00"
+9924,"Quevedo 3","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","29/08/2019","5","100.000,00"
+8358,"Quinzinho","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","20/10/2003","16","102.230,00"
+8826,"QUIXABA USINA","Média","Baixa","Sem emergência",NULL,"Inativa","-",NULL,NULL
+9235,"R22","Média","Baixa","Sem emergência",NULL,"Em Descaracterização","01/06/2011",NULL,NULL
+9236,"R75","Baixa","Baixa","Sem emergência",NULL,"Em Descaracterização","01/06/2010",NULL,NULL
+9585,"Rabo de Bica","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/01/2010",NULL,NULL
+8939,"Rancho Casca","Baixa","Alta","Sem emergência",NULL,"Ativa","02/02/1987",NULL,NULL
+8700,"RAPAUNHA","Baixa","Alta","Sem emergência","Terra Homogênea","Inativa","31/10/1985","50,5",NULL
+8190,"RECON","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","01/02/1980","3","0"
+8877,"Rejeito","Média","Baixa","Sem emergência",NULL,"Inativa","05/04/2004",NULL,NULL
+9019,"REJEITO USINA","Média","Baixa","Sem emergência",NULL,"Ativa","01/01/2012",NULL,NULL
+9110,"Reservatório 01","Média","Baixa","Sem emergência",NULL,"Inativa","-",NULL,NULL
+9111,"RESERVATÓRIO 01","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","-","2","16.000,00"
+9083,"RESERVATÓRIO 01","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","-","2","1.296,00"
+9080,"RESERVATÓRIO 01","Média","Baixa","Sem emergência","Terra / Enrocamento","Inativa","-","3","124.125,00"
+9153,"RESERVATÓRIO 01","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","-","2","17.848,00"
+9155,"RESERVATÓRIO 02","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","-","2","30.800,00"
+8688,"RIO BRANCO","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/07/2008",NULL,NULL
+8359,"Rio do Peixe","Baixa","Alta","Sem emergência",NULL,"Ativa","01/01/1977",NULL,NULL
+9152,"Rio Santa Cruz","Média","Alta","Sem emergência",NULL,"Ativa","05/01/2004",NULL,NULL
+9423,"RODUÍ II","Baixa","Baixa","Sem emergência",NULL,"Ativa","15/01/2020",NULL,NULL
+8471,"RONDON","Baixa","Média","Sem emergência","Terra / Enrocamento","Inativa","19/02/2009","25","490.000,00"
+9197,"RP1","Baixa","Média","Sem emergência",NULL,"Ativa","04/04/2016",NULL,NULL
+9925,"RX-01","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Inativa","20/01/2009","13,08","323.388,00"
+8993,"SAMACA","Média","Baixa","Sem emergência",NULL,"Ativa","-",NULL,NULL
+8472,"SANDRO GOMES","Média","Baixa","Sem emergência",NULL,"Ativa","06/02/2012",NULL,NULL
+8930,"SANGUINETE","Média","Baixa","Sem emergência","-","Inativa","-","3","15.000,00"
+9934,"Santa Bárbara","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","15/05/2022","8","196.173,16"
+8915,"Santa Bárbara","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/09/1993","37,73","718.492,00"
+9586,"Santa Helena","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+9026,"Santa Líbera","Média","Baixa","Sem emergência","-","Ativa","-","2,2","3.500,00"
+9432,"SANTA LUZIA","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","-","5","600.000,00"
+9462,"Santa Maria","Alta","Média","Emergência Nivel 1","Terra Homogênea","Ativa","01/01/2017","18","300.000,00"
+10287,"SANTA RITA","Alta","Baixa","Emergência Nivel 1",NULL,"Inativa","30/04/2018",NULL,NULL
+8606,"SANTA TERESA","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","01/12/1989","11,33","200.000,00"
+8836,"Santa Tereza","Média","Média","Sem emergência","Rejeito","Ativa","06/01/2014","28","671.803,89"
+9420,"Santa Tereza II","Média","Média","Sem emergência","Terra / Enrocamento","Ativa","10/10/2012","5","150.000,00"
+8335,"Santana","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/01/1978","52,13","13.569.698,10"
+8743,"SANTO ANTÔNIO","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","-","13","150.000,00"
+10293,"SÃO RAFAEL","Baixa","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/05/2024","3","900.000,00"
+9244,"Sedimentação de finos","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","01/12/2012","10","290.000,00"
+10348,"Sedimentacao IV","Alta","Baixa","Emergência Nivel 1","-","Inativa","02/08/1984","15","167.000,00"
+10353,"Sedimentacao V","Alta","Baixa","Emergência Nivel 1","-","Inativa","01/01/1984","5,7","319.724,40"
+10352,"Sentinela","Alta","Baixa","Emergência Nivel 1","-","Inativa","01/01/1984","10","522.160,00"
+9717,"SERRA","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+10188,"Sistema de Contenção de Sedimentos Pinta Bem","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","01/01/1989","3","35.107,01"
+8710,"Sítio Horii","Alta","Baixa","Emergência Nivel 1","Rejeito","Em Descaracterização","02/06/2003","21,81",NULL
+9686,"SOL NASCENTE","Média","Baixa","Sem emergência","Terra / Enrocamento","Inativa","20/10/2011","4,2","2.252,00"
+10514,"SP-23","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+10252,"SP-24A","Baixa","Média","Sem emergência",NULL,"Ativa","19/08/2025",NULL,NULL
+10253,"SP-24B","Baixa","Média","Sem emergência",NULL,"Ativa","19/08/2025",NULL,NULL
+10254,"SP-24C","Baixa","Média","Sem emergência",NULL,"Ativa","19/08/2025",NULL,NULL
+9545,"SP-25A","Baixa","Média","Sem emergência",NULL,"Ativa","16/04/2023",NULL,NULL
+10066,"SP-25B","Baixa","Média","Sem emergência",NULL,"Ativa","16/04/2023",NULL,NULL
+10067,"SP-25C","Baixa","Média","Sem emergência",NULL,"Ativa","16/04/2023",NULL,NULL
+8560,"SP1","Baixa","Média","Sem emergência","Terra Homogênea","Em Descaracterização","01/06/1989","18","2.020.000,00"
+8561,"SP10","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","13/01/2009","16","7.478.190,00"
+8562,"SP11","Baixa","Média","Sem emergência",NULL,"Ativa","01/06/2010",NULL,NULL
+8563,"SP12","Baixa","Média","Sem emergência",NULL,"Ativa","01/01/2010",NULL,NULL
+8565,"SP13","Baixa","Média","Sem emergência",NULL,"Ativa","15/02/2011",NULL,NULL
+8566,"SP14","Baixa","Média","Sem emergência",NULL,"Ativa","17/01/2012",NULL,NULL
+8567,"SP15","Baixa","Média","Sem emergência",NULL,"Ativa","19/02/2014",NULL,NULL
+8575,"SP16","Baixa","Média","Sem emergência",NULL,"Ativa","02/03/2016",NULL,NULL
+9457,"SP19","Baixa","Média","Sem emergência",NULL,"Ativa","15/03/2019",NULL,NULL
+8577,"SP2_3","Baixa","Média","Sem emergência","Terra Homogênea","Em Descaracterização","15/03/1989","23,2","5.930.000,00"
+8578,"SP4 Norte","Média","Média","Sem emergência",NULL,"Ativa","01/06/1994",NULL,NULL
+8579,"SP4 Sul","Baixa","Média","Sem emergência","Terra Homogênea","Inativa","01/06/1994","24,5","5.561.881,00"
+8581,"SP5 Leste","Baixa","Média","Sem emergência",NULL,"Ativa","15/01/1989",NULL,NULL
+8588,"SP5 Oeste","Baixa","Média","Sem emergência",NULL,"Ativa","01/06/1997",NULL,NULL
+8590,"SP6","Baixa","Média","Sem emergência",NULL,"Em Descaracterização","31/12/2005",NULL,NULL
+8595,"SP7A","Média","Média","Sem emergência","Terra Homogênea","Ativa","31/12/2000","21","3.366.545,00"
+8596,"SP7B","Baixa","Média","Sem emergência",NULL,"Ativa","31/12/2001",NULL,NULL
+8597,"SP7C","Média","Média","Sem emergência",NULL,"Ativa","01/06/2002",NULL,NULL
+8598,"SP8","Baixa","Média","Sem emergência",NULL,"Ativa","10/01/2005",NULL,NULL
+8599,"SP9","Baixa","Média","Sem emergência",NULL,"Ativa","01/06/2006",NULL,NULL
+8600,"SP9A","Baixa","Média","Sem emergência",NULL,"Em Descaracterização","01/06/2007",NULL,NULL
+9693,"SR.PEDRINHO","Média","Baixa","Sem emergência","Terra / Enrocamento","Inativa","01/08/2022","7","15.000,00"
+9973,"STC03","Média","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","08/02/2017","14","452.912,88"
+8376,"Sul (Córrego do Canal)","Baixa","Alta","Sem emergência",NULL,"Ativa","01/01/1999",NULL,NULL
+8430,"Sul Inferior","Baixa","Alta","Nível de Alerta","Terra Homogênea","Ativa","01/01/1982","35","551.302,16"
+8621,"Sul Pilha","Baixa","Baixa","Sem emergência","Enrocamento","Ativa","01/01/2017","9,02","26.260,00"
+8389,"Sul Superior","Alta","Alta","Emergência Nivel 2",NULL,"Em Descaracterização","01/01/1992",NULL,NULL
+10227,"Sump da Pilha 1","Média","Baixa","Sem emergência","Terra / Enrocamento","Ativa","01/03/2017","9,1","5.921,00"
+8777,"SUMP DE CONTENÇÃO DE SEDIMENTOS","Média","Baixa","Sem emergência","Terra / Enrocamento","Inativa","01/04/2021","8,9","12.000,00"
+9576,"T G de Souza","Alta","Baixa","Emergência Nivel 1","Terra / Enrocamento","Inativa","01/07/2019","4","119.606,25"
+10351,"T11","Alta","Baixa","Emergência Nivel 1","-","Inativa","12/08/1984","9","3.860.163,00"
+8549,"TABOÃO 01","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","01/06/2010","11,7","350.000,00"
+8550,"TABOÃO 02","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","01/07/2000","5","556.508,40"
+9029,"Taboquinha 01 - Crente","Média","Média","Sem emergência",NULL,"Em Descaracterização","01/01/1994",NULL,NULL
+9030,"Taboquinha 02 - Serra Azul","Baixa","Média","Sem emergência",NULL,"Em Descaracterização","01/12/1997",NULL,NULL
+9031,"Taboquinha 03","Baixa","Média","Sem emergência",NULL,"Em Descaracterização","01/01/2004",NULL,NULL
+9032,"Taboquinha 04","Média","Média","Sem emergência",NULL,"Em Descaracterização","31/12/2009",NULL,NULL
+9709,"Tadeu","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+8546,"TANQUE DE DECANTAÇÃO","Alta","Média","Emergência Nivel 1","Terra / Enrocamento","Em Descaracterização","01/09/2014","-703","0"
+8747,"TANQUE DE DECANTAÇÃO","Média","Baixa","Sem emergência","Rejeito","Ativa","-","3","35.000,00"
+8300,"TANQUE DE DECANTAÇÃO","Média","Baixa","Sem emergência","Terra / Enrocamento","Inativa","20/04/2000","2","3.000,00"
+8489,"TANQUE DE DECANTAÇÃO","Alta","Média","Emergência Nivel 1","Terra Homogênea","Ativa","17/08/2007","12","14.460,00"
+8748,"TANQUE DE DECANTAÇÃO 2","Média","Baixa","Sem emergência","Rejeito","Ativa","-","3","40.000,00"
+8610,"TANQUE DE LAMA","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","01/01/2011","14,4","268.926,00"
+8434,"Tanque Específico IX-B","Baixa","Média","Sem emergência","Terra Homogênea","Em Descaracterização","30/08/2012","15","1.010.995,00"
+8436,"Tanque Específico X","Baixa","Média","Sem emergência",NULL,"Em Descaracterização","12/07/2013",NULL,NULL
+8437,"Tanque Específico XI","Baixa","Média","Sem emergência",NULL,"Em Descaracterização","22/12/2014",NULL,NULL
+8438,"Tanque Específico XII","Baixa","Alta","Sem emergência",NULL,"Ativa","26/03/2015",NULL,NULL
+8855,"Tanque Fundo","Baixa","Média","Sem emergência",NULL,"Ativa","08/08/2013",NULL,NULL
+9051,"TAP D","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/08/2011","36","6.280.000,00"
+8249,"Taquaras","Baixa","Alta","Sem emergência","Terra Homogênea","Ativa","01/03/2002","25","151.972,00"
+9897,"TARUMÃ II","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+8870,"TB01","Média","Média","Sem emergência",NULL,"Inativa","18/10/2010",NULL,NULL
+9849,"TB04","Baixa","Baixa","Sem emergência","-","Em Construção","-",NULL,NULL
+10346,"TD1","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","01/03/2017","13,3","238.850,00"
+8951,"TD2","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","01/12/2016","5","6.673,54"
+10347,"TD4","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","08/02/2021","6","118.086,55"
+8204,"Timbopeba","Baixa","Alta","Sem emergência","Terra / Enrocamento","Ativa","01/01/1982","65,24","24.828.630,39"
+8601,"TP1","Média","Alta","Sem emergência","Terra Homogênea","Ativa","01/06/1989","21,9","8.081.753,00"
+8602,"TP2","Média","Alta","Sem emergência",NULL,"Ativa","01/06/2002",NULL,NULL
+9289,"TP3","Baixa","Média","Sem emergência",NULL,"Ativa","01/02/2017",NULL,NULL
+9446,"TQ-1","Baixa","Baixa","Sem emergência",NULL,"Ativa","01/11/2000",NULL,NULL
+9447,"TQ-2","Baixa","Baixa","Sem emergência",NULL,"Ativa","31/07/2003",NULL,NULL
+10119,"TQ 6301 A - POND 1 A","Alta","Alta","Emergência Nivel 1","Terra Homogênea","Inativa","01/12/1999","7","32.010,10"
+10120,"TQ 6301 B - POND 1 B","Alta","Alta","Emergência Nivel 1","Terra Homogênea","Inativa","01/12/1999","7","29.776,72"
+10121,"TQ 6302 - POND 2","Alta","Alta","Emergência Nivel 1","Terra Homogênea","Ativa","01/05/2005","7","73.051,75"
+10122,"TQ 6303 - POND 3","Alta","Alta","Emergência Nivel 1","Terra Homogênea","Ativa","16/05/2012","7","125.647,70"
+10517,"TQ 63102 - Bacia de Águas Pluviais","Alta","Alta","Sem emergência","Terra Homogênea","Ativa","17/09/2025","3,48","0"
+10272,"TQ 63201 - Pré Bacia Cachoeira","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","17/09/1999","9,9","4.022,00"
+10269,"TQ 63202 - Bacia de Finos Cachoeira","Média","Baixa","Sem emergência","Terra Homogênea","Ativa","27/11/2006","3","8.200,00"
+10060,"TR1","Baixa","Média","Sem emergência","Terra Homogênea","Ativa","01/08/2023","5","58.376,57"
+10354,"Tupa 1","Média","Baixa","Sem emergência","Terra Homogênea","Inativa","03/06/2019","20,5",NULL
+9836,"TUPA 2","Média","Baixa","Sem emergência","Terra Homogênea","Em Descaracterização","10/08/2009","22","337.627,18"
+9837,"TUPA 3","Média","Média","Sem emergência","Terra Homogênea","Em Descaracterização","10/04/2003","15","132.566,82"
+8539,"Turmalina","Baixa","Alta","Nível de Alerta",NULL,"Em Descaracterização","15/08/2009",NULL,NULL
+9157,"Unidade I","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","04/08/2014",NULL,NULL
+9471,"Unidade IB","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","04/08/2014",NULL,NULL
+9156,"Unidade II","Baixa","Alta","Sem emergência",NULL,"Ativa","03/08/2009",NULL,NULL
+9158,"Unidade IIB","Baixa","Alta","Sem emergência",NULL,"Ativa","02/01/2017",NULL,NULL
+8269,"Usina","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","30/10/2008","8,5","494.416,00"
+10054,"VALE DO OURO","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+8786,"VALE DOURADO","Média","Baixa","Sem emergência",NULL,"Ativa","20/04/2016",NULL,NULL
+9776,"VALE GOLD","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+9100,"Vargem Grande","Alta","Alta","Emergência Nivel 1",NULL,"Em Descaracterização","31/12/2000",NULL,NULL
+10041,"VCS","Baixa","Baixa","Sem emergência","Terra Homogênea","Ativa","10/08/2023","7","120.000,00"
+8456,"VI","Baixa","Alta","Sem emergência",NULL,"Em Descaracterização","01/01/1998",NULL,NULL
+10371,"VICTOR","Baixa","Baixa","Sem emergência",NULL,"Em Construção","-",NULL,NULL
+8457,"VII","Baixa","Média","Sem emergência","Terra Homogênea","Em Descaracterização","01/01/1986","19,03","5.019,84"
+8744,"VILA NOVA","Alta","Baixa","Emergência Nivel 1",NULL,"Ativa","01/01/2010",NULL,NULL
+9357,"Volta Grande 3","Baixa","Média","Sem emergência",NULL,"Ativa","02/07/2018",NULL,NULL
+9534,"Xingu","Alta","Alta","Emergência Nivel 1","Rejeito","Em Descaracterização","01/01/1989","72","6.161.749,48"
