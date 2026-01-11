@@ -1,88 +1,131 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
-<meta charset="UTF-8">
-<title>Dashboard de Barragens</title>
+  <meta charset="UTF-8">
+  <title>Dashboard de Barragens</title>
 
-<link rel="stylesheet" href="https://cdn.datatables.net/1.13.8/css/jquery.dataTables.min.css">
-<link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css">
 
+  <!-- DataTables -->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.8/css/jquery.dataTables.min.css">
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js"></script>
 </head>
+
 <body>
 
-<header class="topo">
+<div class="topo">
   <h1>Dashboard de Barragens</h1>
-  <p>Visualização de dados do sistema de barragens</p>
-</header>
+  <p>Monitoramento e análise de dados</p>
 
-<main class="container">
+  <div class="menu">
+  <button data-pagina="home">Consultas SQL</button>
+  <button data-pagina="barragens">Barragens</button>
+  <button data-pagina="empreendedores">Empreendedores</button>
+  <button data-pagina="localizacao">Localização</button>
+  <button data-pagina="minas">Minas</button>
+</div>
 
-<section class="cards">
-  <div class="card">
-    <h3>Total de Barragens</h3>
-    <span id="totalBarragens">0</span>
+</div>
+
+<div class="container">
+<div id="home" class="pagina" style="display:none">
+
+  <h2 style="margin-bottom:20px;">Consultas SQL do Banco de Dados</h2>
+
+  <div id="consultasContainer"></div>
+
+</div>
+
+
+<!-- ================= BARRAGENS ================= -->
+<div id="barragens" class="pagina">
+
+  <div class="cards">
+    <div class="card"><h3>Total de Barragens</h3><span id="totalBarragens">0</span></div>
+    <div class="card"><h3>Em Emergência</h3><span id="emergencia">0</span></div>
+    <div class="card"><h3>Dano Potencial Alto</h3><span id="danoAlto">0</span></div>
+    <div class="card"><h3>Risco Alto</h3><span id="riscoAlto">0</span></div>
   </div>
 
-  <div class="card">
-    <h3>Em Emergência</h3>
-    <span id="emergencia">0</span>
+  <div class="bloco">
+    <h2>Barragens</h2>
+    <table id="tabelaBarragens">
+      <thead>
+        <tr>
+          <th>ID</th><th>Nome</th><th>Risco</th><th>Dano</th>
+          <th>Emergência</th><th>Tipo</th><th>Situação</th>
+          <th>Altura</th><th>Volume</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
   </div>
 
-  <div class="card">
-    <h3>Dano Potencial Alto</h3>
-    <span id="danoAlto">0</span>
+  <div class="graficos">
+    <div class="grafico">
+      <h2>Risco</h2>
+      <canvas id="graficoRisco"></canvas>
+    </div>
+    <div class="grafico">
+      <h2>Dano Potencial</h2>
+      <canvas id="graficoDano"></canvas>
+    </div>
   </div>
 
-  <div class="card">
-    <h3>Risco Alto</h3>
-    <span id="riscoAlto">0</span>
+</div>
+
+<!-- ================= EMPREENDEDORES ================= -->
+<div id="empreendedores" class="pagina" style="display:none">
+  <div class="bloco">
+    <h2>Empreendedores</h2>
+    <table id="tabelaEmpreendedores">
+      <thead>
+        <tr>
+          <th>ID</th><th>Nome</th><th>CPF/CNPJ</th><th>Unidade Gestora</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
   </div>
-</section>
+</div>
 
-<section class="bloco">
-  <h2>Tabela de Barragens</h2>
-
-  <table id="tabelaBarragens" class="display">
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Nome</th>
-        <th>Risco</th>
-        <th>Dano</th>
-        <th>Emergência</th>
-        <th>Tipo</th>
-        <th>Situação</th>
-        <th>Início</th>
-        <th>Altura</th>
-        <th>Volume</th>
-      </tr>
-    </thead>
-    <tbody></tbody>
-  </table>
-</section>
-
-<section class="graficos">
-  <div class="grafico">
-    <h2>Barragens por Categoria de Risco</h2>
-    <canvas id="graficoRisco"></canvas>
+<!-- ================= LOCALIZAÇÃO ================= -->
+<div id="localizacao" class="pagina" style="display:none">
+  <div class="bloco">
+    <h2>Localização</h2>
+    <table id="tabelaLocalizacao">
+      <thead>
+        <tr>
+          <th>ID</th><th>UF</th><th>Município</th><th>Latitude</th><th>Longitude</th><th>Posicionamento</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
   </div>
+</div>
 
-  <div class="grafico">
-    <h2>Barragens por Dano Potencial</h2>
-    <canvas id="graficoDano"></canvas>
+<!-- ================= MINAS ================= -->
+<div id="minas" class="pagina" style="display:none">
+  <div class="bloco">
+    <h2>Minas</h2>
+    <table id="tabelaMinas">
+      <thead>
+        <tr>
+          <th>ID</th><th>Nome da Mina</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
   </div>
-</section>
+</div>
 
-</main>
+</div>
 
-<footer class="rodape">
-Trabalho acadêmico – Banco de Dados
-</footer>
-
-<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-<script src="https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="script.js"></script>
-
 </body>
 </html>
